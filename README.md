@@ -12,5 +12,5 @@ Some worm-up problems solved in C++
 
 
 ## Exercises from colloquiums, pop quizes, exams, etc.
-- [Zad2_kol1grA_20141104](https://github.com/kaspiotr/WDI-intro-to-CS/blob/master/Ex2_coll1grA_20141104.cpp "Ex2_coll1grA_20141104.cpp") *Rewriting from 2D array where elements are sorted in rows only to 1D array where there must be sorted in nondecreasing order (2D arrays)*
+- [Zad2_kol1grA_20141104](https://github.com/kaspiotr/WDI-intro-to-CS/blob/master/Ex2_coll1grA_20141104.cpp "Ex2_coll1grA_20141104.cpp") **[2D arrays]** Rewriting from 2D array where elements are sorted in rows only to 1D array where there must be sorted in nondecreasing order 
 - [Zad1_kol1grA_20141104](https://github.com/kaspiotr/WDI-intro-to-CS/blob/master/Ex1_coll1grA20141104.cpp "Ex1_coll1grA20141104.cpp") **[other]** 10th greatest element of a given sequense
