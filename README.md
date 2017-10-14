@@ -3,9 +3,8 @@ Some worm-up problems solved in C++
 
 ## Exercises from seminars
 ### 1st Seminar 
-1 -[Zadanie nr 1] (https://github.com/kaspiotr/WDI-intro-to-CS/blob/master/Sem1_Ex1_20171006.cpp "Sem1_Ex1_20171006.cpp") *(one dimensional arrays)*
-2
-3
+1 [Zadanie nr 1] (https://github.com/kaspiotr/WDI-intro-to-CS/blob/master/Sem1_Ex1_20171006.cpp "Sem1_Ex1_20171006.cpp") *(one dimensional arrays)*
+
 
 ### 2nd Seminar
 1
