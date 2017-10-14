@@ -6,7 +6,7 @@ Some worm-up problems solved in C++
 1.
 	- [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/blob/master/Sem1_Ex1_20171006.cpp "Sem1_Ex1_20171006.cpp") **[1D arrays]** Sum of 10 greatest elements in a given 1D array 
 	- [Zad1_wersjaB](https://github.com/kaspiotr/WDI-intro-to-CS/blob/master/Sem1_Ex1_verB_20171006.cpp "Sem1_Ex1_verB_20171006.cpp") **[1D arrays]** Sum of 10 greatest values in a given 1D array
-2.
+2. [Zad2] (https://github.com/kaspiotr/WDI-intro-to-CS/blob/master/Sem1_Ex2_20171006.cpp "Sem1_Ex2_20171006.cpp") **[1D arrays]** Rewriting from two 1D arrays which elements are sorted in nondecreasing order to one 1d array where elements must be sorted in nondecreasing order
 3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/blob/master/Sem1_Ex3_20171006.cpp "Sem1_Ex3_20171006.cpp") **[1D arrays]** Value of most common element in a given 1D array 
 
 ### 2nd seminar
