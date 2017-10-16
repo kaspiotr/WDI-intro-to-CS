@@ -1,0 +1,6 @@
+ad-wdi-k1b, środa, 5 listopada 2014
+1. Proszę napisać program, który wczytuje wprowadzany z klawiatury ciąg liczb naturalnych
+zakończonych zerem stanowiącym wyłącznie znacznik końca danych.
+Program powinien wypisać te elementy ciągu które są równe średniej arytmetycznej z 4 najbliższych
+sąsiadów. Na przykład dla ciągu: 2,3_,2,7,1,2,4_,8,5,2,2,4_,3,9,5_,4,0 powinny zostać wypisane
+podkreślone liczby. Można założyć, że w ciągu znajduje się co najmniej 5 elementów.
