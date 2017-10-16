@@ -1,0 +1,4 @@
+Cw.1, Zad.1, WDI, 6.10.17
+
+Napisac funckje, ktora jako argument otrzymuje tablice t[N], a zwraca sume
+10-ciu najwiekszych elementow znajdujacych sie w tablicy.
