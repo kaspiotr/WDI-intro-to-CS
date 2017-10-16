@@ -7,10 +7,10 @@ Some worm-up problems solved in C++
 	- [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem1_Ex1_20171006 "Sem1_Ex1_20171006") **[1D arrays]** Sum of 10 greatest elements in a given 1D array 
 	- [Zad1_wersjaB](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem1_Ex1_verB_20171006 "Sem1_Ex1_verB_20171006") **[1D arrays]** Sum of 10 greatest values in a given 1D array
 2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem1_Ex2_20171006 "Sem1_Ex2_20171006") **[1D arrays]** Rewriting from two 1D arrays which elements are sorted in nondecreasing order to one 1D array where elements must be sorted in nondecreasing order
-3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/blob/master/Sem1_Ex3_20171006.cpp "Sem1_Ex3_20171006.cpp") **[1D arrays]** Value of most common element in a given 1D array 
+3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem1_Ex3_20171006 "Sem1_Ex3_20171006") **[1D arrays]** Value of most common element in a given 1D array 
 
 ### 2nd seminar
-1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/blob/master/Sem2_Ex1_20171013.cpp "Sem2_Ex1_20171013.cpp") **[other]** Program checks if given number is equal to sum of words of the cohesive subsequence of Fibonacci sequnce 
+1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem2_Ex1_20171013 "Sem2_Ex1_20171013") **[other]** Program checks if given number is equal to sum of words of the cohesive subsequence of Fibonacci sequnce 
 
 
 ## Exercises from colloquiums, pop quizes, exams, etc.
@@ -24,4 +24,4 @@ Some worm-up problems solved in C++
 - [Zad2_kol1grA_20151103](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex2_coll1grA_20151103 "Ex2_coll1grA_20151103") **[1D arrays]** Program initialize an array with random odd numbers from range 1 to 99 and returns the difference between two arithmetic sequences found in an array that fulfil certain condition
 - [Zad2_kol2grB_20161213](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex2_coll2grB_20161213 "Ex2_coll2grB_20161213") **[2D arrays]** Returns position of 2 towers that check the greatest sum of field values that you can get from a given 2D array
 - [Zad3_kolPop_20170203](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex3_collRep_20170203 "Ex3_collRep_20170203") **[Linked lists]** Deleting common elements from three given linked lists
-- [Zad1_kol1_20171013](https://github.com/kaspiotr/WDI-intro-to-CS/blob/master/Sem2_Ex1_20171013.cpp "Sem2_Ex1_20171013.cpp") **[other]** Program checks if given number is equal to sum of words of the cohesive subsequence of Fibonacci sequnce
+- [Zad1_kol1_20171013](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem2_Ex1_20171013 "Sem2_Ex1_20171013") **[other]** Program checks if given number is equal to sum of words of the cohesive subsequence of Fibonacci sequnce
