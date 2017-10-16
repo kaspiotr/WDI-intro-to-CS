@@ -1,0 +1,7 @@
+ad-wdi-k1a, wtorek, 3 listopada 2015
+
+ Prosze napisac program, ktory wypelnia tablice t[N] pseudolosowymi liczbami nieparzytymi
+ z zakresu [1...99], a nastepnie wyznacza roznice pomiedzy dlugoscia najdluzszego znajdujacego
+ sie w niej ciagu arytmetycznego o dodatniej roznicy, a dlugoscia najdluzszego ciagu
+ arytmetycznego o ujemnej roznicy, przy zalozeniu, ze kolejymi wyrazami ciagu sa elementy
+ tablicy o kolejnych indeksach.
