@@ -1,0 +1,8 @@
+ad-wdi kolokwium 1, czwartek, 28 stycznia 2010 Nazwisko Imię
+Zad. 1 Dana jest duża tablica typu tab=array[1..n] of integer. Proszę napisać funkcję, która
+zwraca informację, czy w tablicy zachodzi następujący warunek: „wszystkie elementy, których
+indeks jest elementem ciągu Fibonacciego są liczbami złożonymi, a wśród pozostałych
+przynajmniej jedna jest liczbą pierwszą”.
+Uwagi:
+• Czas na rozwiązanie zadania wynosi 25 minut, za zadanie można otrzymać 5 punktów.
+• Oceniane będą: przejrzystość i czytelność kodu oraz efektywność rozwiązania.
