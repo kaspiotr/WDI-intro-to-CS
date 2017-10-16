@@ -1,0 +1,6 @@
+Cw.1, Zad.3, WDI, 6.10.17
+
+Dana jest tablica jednwymiarowa. Elementy tablicy to liczby naturalne posortowane niemalejaco
+(liczby sie powtarzaja). Chcemy sie dowiedziec jaka jest wartosc elementu w tablicy ktory
+wystepuje  w niej najczesciej. Moze to byc np. tablica zawierajaca 10000 elementow, w ktorej
+powtarzajace sie wartosci wystepuja w grupach po kilkadziesiat/kilkaset elementow.
