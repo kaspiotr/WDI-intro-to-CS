@@ -1,0 +1,10 @@
+ad-wdi k2a, wtorek, 13 grudnia 2016
+2. Dana jest tablica t[N][N] (reprezentująca szachownicę) wypełniona liczbami naturalnymi.
+Proszę napisać funkcję która ustawia na szachownicy dwie wieże, tak aby suma liczb na
+„szachowanych” przez wieże polach była największa. Do funkcji należy przekazać tablicę,
+funkcja powinna zwrócić położenie wież.
+Uwagi:
+- zakładamy, że wieża szachuje cały wiersz i kolumnę z wyłączeniem pola na którym stoi
+- czas na rozwiązanie obu zadań wynosi 45 minut
+- za każde zadanie można otrzymać maksymalnie 5 pkt
+- oceniane będą: czytelność, poprawność i efektywność rozwiązań
