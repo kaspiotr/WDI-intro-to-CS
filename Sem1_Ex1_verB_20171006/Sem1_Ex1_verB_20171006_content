@@ -1,0 +1,5 @@
+Zad.1, Cw.1, WDI, 6.10.17, wersja B
+
+Napisac funckje, ktora jako argument otrzymuje tablice t[N], a zwraca sume
+10-ciu najwiekszych wartosci (nie elementow jak w wersji A) znajdujacych sie w tablicy.
+Jesli nie ma 10-ciu roznych wartosci w tablicy funckja zwraca -1.
