@@ -1,0 +1,8 @@
+ad-wdi-k1a, wtorek, 4 listopada 2014
+
+2. Dane są dwie tablice mogące pomieścić taką samą liczbę elementów:
+ int t1[N][N];
+ int t2[M]; // M = N*N
+W każdym wierszu tablicy t1 znajdują się uporządkowane niemalejąco (w obrębie wiersza) liczby
+naturalne. Proszę napisać fragment programu przepisujący wszystkie liczby z tablicy t1 do t2, tak aby
+liczby w tablicy t2 były uporządkowane niemalejąco.
