@@ -1,0 +1,10 @@
+ad-wdi-k1b, środa, 5 listopada 2014
+
+2. Dane są dwie tablice mogące pomieścić taką samą liczbę elementów:
+ int t1[10][N];
+ int t2[M]; // M = 10*N
+W każdym wierszu tablicy t1 znajdują się uporządkowane rosnąco (w obrębie wiersza) liczby
+naturalne.
+Proszę napisać fragment programu przepisujący wszystkie singletony (liczby występujące dokładnie
+raz) z tablicy t1 do t2, tak aby liczby w tablicy t2 były uporządkowane rosnąco. Pozostałe elementy
+tablicy t2 powinny zawierać zera.
