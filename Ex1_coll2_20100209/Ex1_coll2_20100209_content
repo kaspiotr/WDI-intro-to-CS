@@ -1,0 +1,8 @@
+ad-wdi kolokwium 2, wtorek, 9 lutego 2010 Nazwisko Imię
+Zad. 1 Dana jest duża tablica typu tab=array[1..n] of integer. Proszę napisać funkcję, która
+zwraca sumę cyfr elementów tablicy zapisanych w systemie o podstawie 7, których indeks nie jest
+liczbą pierwszą. Wskazówka: rozważyć metodę sita.
+Uwagi:
+• Zawartość tablicy wejściowej nie może ulec zmianie.
+• Czas na rozwiązanie zadania wynosi 25 minut, za zadanie można otrzymać 5 punktów.
+• Oceniane będą: przejrzystość i czytelność kodu oraz efektywność rozwiązania.
