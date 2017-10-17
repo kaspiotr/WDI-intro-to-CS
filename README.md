@@ -10,7 +10,7 @@ Some worm-up problems solved in C++
 3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem1_Ex3_20171006 "Sem1_Ex3_20171006") **[1D arrays]** Value of most common element in a given 1D array 
 
 ### 2nd seminar
-1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem2_Ex1_20171013 "Sem2_Ex1_20171013") **[other]** Program checks if given number is equal to sum of words of the cohesive subsequence of Fibonacci sequnce 
+1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem2_Ex1_20171013 "Sem2_Ex1_20171013") **[other]** Program checks if given number is equal to sum of words of the cohesive subsequence of Fibonacci's sequnce 
 
 
 ## Exercises from colloquiums, pop quizes, exams, etc.
@@ -24,10 +24,10 @@ Some worm-up problems solved in C++
 - [Zad2_kol1grA_20151103](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex2_coll1grA_20151103 "Ex2_coll1grA_20151103") **[1D arrays]** Program initialize an array with random odd numbers from range 1 to 99 and returns the difference between two arithmetic sequences found in an array that fulfil certain condition
 - [Zad2_kol2grB_20161213](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex2_coll2grB_20161213 "Ex2_coll2grB_20161213") **[2D arrays]** Returns position of 2 towers that check the greatest sum of field values that you can get from a given 2D array
 - [Zad3_kolPop_20170203](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex3_collRep_20170203 "Ex3_collRep_20170203") **[Linked lists]** Deleting common elements from three given linked lists
-- [Zad1_kol1_20171013](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem2_Ex1_20171013 "Sem2_Ex1_20171013") **[other]** Program checks if given number is equal to sum of words of the cohesive subsequence of Fibonacci sequnce
+- [Zad1_kol1_20171013](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem2_Ex1_20171013 "Sem2_Ex1_20171013") **[other]** Program checks if given number is equal to sum of words of the cohesive subsequence of Fibonacci's sequnce
 
 ## Set of tasks
 ### 1st
 1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex1 "Set1_Ex1") **[other]** Writes out words of Fibonacci's sequence that are less than 1000000
 2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex2 "Set1_Ex2") **[other]** Finds first two words of quasi-Fibonacci's sequnce that has a word equal to current year (2017) and those two words are the smallest from all possible
-3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem2_Ex1_20171013 "Sem2_Ex1_20171013") **[other]** Program checks if given number is equal to sum of words of the cohesive subsequence of Fibonacci sequnce
+3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem2_Ex1_20171013 "Sem2_Ex1_20171013") **[other]** Program checks if given number is equal to sum of words of the cohesive subsequence of Fibonacci's sequnce
