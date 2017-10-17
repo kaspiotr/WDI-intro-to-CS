@@ -27,5 +27,6 @@ Some worm-up problems solved in C++
 - [Zad1_kol1_20171013](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem2_Ex1_20171013 "Sem2_Ex1_20171013") **[other]** Program checks if given number is equal to sum of words of the cohesive subsequence of Fibonacci sequnce
 
 ## Set of tasks
-# 1st
+### 1st
 1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex1 "Set1_Ex1") **[other]** Writes out words of Fibonacci's sequence that are less than 1000000
+2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex2 "Set1_Ex2") **[other]** Finds first two words of quasi-Fibonacci's sequnce that has a word equal to current year (2017) and those two words are the smallest from all possible
