@@ -34,3 +34,4 @@ Some worm-up problems solved in C++
 4. [Zad4](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex4 "Set_Ex4") **[other]** Program checks if number equal to current year (2017) is equal to sum of words of the cohesive subsequence of Fibonacci's sequnce
 5. [Zad5](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex5 "Set1_Ex5") **[other]** Determines a floor of asquare root from a given integer using dependence: 1+3+5+... = n^2
 6. [Zad6](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex6 "Set1_Ex6") **[other]** Finds all factors of a given number
+7. [Zad7](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex7 "Set1_Ex7") **[other]** Tells if a given number is a prime number 
