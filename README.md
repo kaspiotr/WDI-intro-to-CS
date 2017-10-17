@@ -25,3 +25,7 @@ Some worm-up problems solved in C++
 - [Zad2_kol2grB_20161213](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex2_coll2grB_20161213 "Ex2_coll2grB_20161213") **[2D arrays]** Returns position of 2 towers that check the greatest sum of field values that you can get from a given 2D array
 - [Zad3_kolPop_20170203](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex3_collRep_20170203 "Ex3_collRep_20170203") **[Linked lists]** Deleting common elements from three given linked lists
 - [Zad1_kol1_20171013](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem2_Ex1_20171013 "Sem2_Ex1_20171013") **[other]** Program checks if given number is equal to sum of words of the cohesive subsequence of Fibonacci sequnce
+
+## Set of tasks
+# 1st
+1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex1 "Set1_Ex1") **[other]** Writes out words of Fibonacci's sequence that are less than 1000000
