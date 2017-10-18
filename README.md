@@ -41,3 +41,5 @@ Some worm-up problems solved in C++
 11. [Zad11](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex11 "Set1_Ex11") **[other]** Counts lowest common multiple (LCM) of three given numbers
 12. [Zad12](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex12 "Set1_Ex12") **[other]** Finds first word of a sequnce (from range 2-10000) defined by recursive equation  
 	A(n+1) = (A(n)%2)*(3*A(n)+1)+(1-A(n)%2)*A(n)/2 that reaches value 1 after largest number of iterations 
+13. [Zad13]
+14. [Zad14](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex14 "Set1_Ex14") **[other]** Calculates square root of a given number using Newton's formula	
