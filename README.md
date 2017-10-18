@@ -35,4 +35,5 @@ Some worm-up problems solved in C++
 5. [Zad5](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex5 "Set1_Ex5") **[other]** Determines a floor of asquare root from a given integer using dependence: 1+3+5+... = n^2
 6. [Zad6](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex6 "Set1_Ex6") **[other]** Finds all factors of a given number
 7. [Zad7](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex7 "Set1_Ex7") **[other]** Tells if a given number is a prime number
-8. [Zad8](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex8 "Set1_Ex8") **[other]** Writes out all prefect numbers smaller that 1000000 
+8. [Zad8](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex8 "Set1_Ex8") **[other]** Writes out all prefect numbers smaller than 1000000 
+9. [Zad9](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex9 "Set1_Ex9") **[other]** Writes out all amicable numbers smaller than 1000000
