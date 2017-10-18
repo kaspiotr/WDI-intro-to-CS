@@ -38,3 +38,4 @@ Some worm-up problems solved in C++
 8. [Zad8](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex8 "Set1_Ex8") **[other]** Writes out all prefect numbers smaller than 1000000 
 9. [Zad9](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex9 "Set1_Ex9") **[other]** Writes out all amicable numbers smaller than 1000000
 10. [Zad10](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex10 "Set1_Ex10") **[other]** Counts greatest common measure of three given numbers
+11. [Zad11](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex11 "Set1_Ex11") **[other]** Counts lowest common multiple (LCM) of three given numbers
