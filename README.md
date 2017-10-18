@@ -39,4 +39,5 @@ Some worm-up problems solved in C++
 9. [Zad9](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex9 "Set1_Ex9") **[other]** Writes out all amicable numbers smaller than 1000000
 10. [Zad10](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex10 "Set1_Ex10") **[other]** Counts greatest common measure of three given numbers
 11. [Zad11](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex11 "Set1_Ex11") **[other]** Counts lowest common multiple (LCM) of three given numbers
-12. [Zad12](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex12 "Set1_Ex12") **[other]** Finds first word of a sequnce (from range 2-10000) defined by recursive equation  A(n+1) = (A(n)%2)*(3*A(n)+1)+(1-A(n)%2)*A(n)/2 that reaches value 1 after largest number of iterations 
+12. [Zad12](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex12 "Set1_Ex12") **[other]** Finds first word of a sequnce (from range 2-10000) defined by recursive equation  
+	A(n+1) = (A(n)%2)*(3*A(n)+1)+(1-A(n)%2)*A(n)/2 that reaches value 1 after largest number of iterations 
