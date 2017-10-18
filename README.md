@@ -45,3 +45,7 @@ Some worm-up problems solved in C++
 14. [Zad14](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex14 "Set1_Ex14") **[other]** Calculates square root of a given number using Newton's formula
 15. [Zad15]
 16. [Zad16](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex16 "Set1_Ex16") **[other]** Solves equation x^x^x=2017 using bisection method
+17. [Zad17]
+18. [Zad18]
+19. [Zad19]
+20. [Zad20]
