@@ -42,7 +42,7 @@ void Merge(int *A, int end1, int end2){
 
     int *B = new int [end2];
 
-    while(i<end1 && j<end2){
+    while(i<end1 && j<end2){  // można zastąpić inkrementowanie tak jak Garek mówił czyli B[k++]=A[i++]
         if(A[i]<A[j]){
             B[k]=A[i];
             i++;
