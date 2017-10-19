@@ -15,10 +15,10 @@ using namespace std;
 const double E=10e-3;
 
 int main(){
-    double sqr, a, b;
+    double sqr, a, b; //sqr -liczba, z ktorej pierwiastek obliczamy; a=x(k+1); b=x(k)
     cin>>sqr;
 
-    a=1, b=2;
+    a=1, b=2; //a=1, bo jesli a=sqr, to program nie oblicza pierwiastka z 2
 
     while(b-a<-E || b-a>E){ //zamiast while(fabs(b-a)>E)
         b=a;
