@@ -43,7 +43,7 @@ Some worm-up problems solved in C++
 	A(n+1) = (A(n)%2)*(3*A(n)+1)+(1-A(n)%2)*A(n)/2 that reaches value 1 after largest number of iterations 
 13. [Zad13](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex13 "Set1_Ex13") **[other]** Calculates the limit of two consecutive words of Fibonacci's sequence ('golden ratio')
 14. [Zad14](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex14 "Set1_Ex14") **[other]** Calculates square root of a given number using Newton's formula
-15. [Zad15]
+15. [Zad15](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex15 "Set1_Ex15") **[other]** Calculates cube root of a given bmber using Newton's formula 
 16. [Zad16](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex16 "Set1_Ex16") **[other]** Solves equation x^x^x=2017 using bisection method
 17. [Zad17]
 18. [Zad18]
