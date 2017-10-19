@@ -48,4 +48,4 @@ Some worm-up problems solved in C++
 17. [Zad17](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex17 "Set1_Ex17") **[other]** Calculates e (Euler's number) using equation e = 1/0! + 1/1! + 1/2! + 1/3! + ... 
 18. [Zad18](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex18 "Set1_Ex18") **[other]** Calculates pi number using equation sqrt(0.5)*sqrt(0.5+0.5*sqrt(0.5))*sqrt(0.5+0.5*sqrt(0.5+0.5*sqrt(0.5)))*...=2/pi
 19. [Zad19](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex19 "Set1_Ex19") **[other]** Calculates value of cos(x) for given number x using Maclaurin's series
-20. [Zad20]
+20. [Zad20](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex20 "Set1_Ex20") **[other]** Calculates arithmetic–geometric mean (AGM) of two positive real numbers a and b
