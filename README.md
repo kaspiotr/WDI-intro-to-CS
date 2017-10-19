@@ -47,6 +47,6 @@ Some worm-up problems solved in C++
 16. [Zad16](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex16 "Set1_Ex16") **[other]** Solves equation x^x^x=2017 using bisection method
 17. [Zad17](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex17 "Set1_Ex17") **[other]** Calculates e (Euler's number) using equation e = 1/0! + 1/1! + 1/2! + 1/3! + ... 
 18. [Zad18](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex18 "Set1_Ex18") **[other]** Calculates pi number using equation 
-	sqrt(0.5)*sqrt(0.5+0.5*sqrt(0.5))*sqrt(0.5+0.5*sqrt(0.5+0.5*sqrt(0.5))) * ... = 2/pi
+	sqrt(0.5)*sqrt(0.5+0.5*sqrt(0.5))*sqrt(0.5+0.5*sqrt(0.5+0.5*sqrt(0.5)))*...=2/pi
 19. [Zad19]
 20. [Zad20]
