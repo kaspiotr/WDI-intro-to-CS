@@ -2,6 +2,9 @@
 2. Znaleźć najmniejsze wyrazy początkowe zamiast 1,1 aby w ciągu analogicznym do ciągu
 Fibonacciego wystąpił w nim wyraz równy numerowi bieżącego roku.
 */
+
+//Komentarz: nie wiem czy nie lepsze będzie zastosowanie najmniejszej sumy dwóch wyrazów, 
+//oczywiście wszystko zależy od interpretacji zadania
 #include <iostream>
 
 using namespace std;
