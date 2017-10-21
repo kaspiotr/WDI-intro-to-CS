@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 9. Napisać program wyszukujący liczby zaprzyjaźnione mniejsze od miliona.
 */

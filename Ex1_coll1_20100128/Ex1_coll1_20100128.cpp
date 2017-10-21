@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 ad-wdi kolokwium 1, czwartek, 28 stycznia 2010 Nazwisko Imię
 Zad. 1 Dana jest duża tablica typu tab=array[1..n] of integer. Proszę napisać funkcję, która

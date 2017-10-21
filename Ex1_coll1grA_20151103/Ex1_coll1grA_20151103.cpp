@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 ad-wdi-k1a, wtorek, 3 listopada 2015
 1) Prosze napisac program, ktory wczytuje liczbe naturalna A i odpowiada na pytanie: "czy w ktorymkolwiek

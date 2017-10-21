@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 ad-wdi-k1a, wtorek, 4 listopada 2014
 

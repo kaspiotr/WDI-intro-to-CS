@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 8. Napisać program wyszukujący liczby doskonałe mniejsze od miliona.
  */

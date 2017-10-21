@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 3. Dane są trzy listy jednokierunkowe uporządkowane rosnąco bez powtarzających się
 liczb. Proszę napisać funkcję która usunie w każdej liście elementy powtarzające się

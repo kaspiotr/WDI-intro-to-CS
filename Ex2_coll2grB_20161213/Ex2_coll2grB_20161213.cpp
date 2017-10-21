@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 ad-wdi k2a, wtorek, 13 grudnia 2016
 2. Dana jest tablica t[N][N] (reprezentująca szachownicę) wypełniona liczbami naturalnymi.

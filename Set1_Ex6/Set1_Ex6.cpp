@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 6. Napisać program wypisujący podzielniki liczby.
  */

@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 13. Napisać program wyznaczający wartość do której zmierza iloraz dwóch kolejnych wyrazów
 ciągu Fibonacciego. Wyznaczyć ten iloraz dla różnych wartości początkowych wyrazów

@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 Dane sa dwie tablice jednowymiarowe tego samego ramiaru int t1[N] oraz int t2[N]. W obu tablicach elementy
 sa uporzadkowane niemalejaco. Nalezy wypelnic trzecia tablice int t3[M], tak aby byla ona posortowana niemalejaco.

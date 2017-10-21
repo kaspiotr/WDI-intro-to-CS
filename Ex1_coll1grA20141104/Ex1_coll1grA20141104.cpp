@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 ad-wdi-k1a, wtorek, 4 listopada 2014
 1. Proszę napisać program, który wczytuje wprowadzany z klawiatury ciąg liczb naturalnych

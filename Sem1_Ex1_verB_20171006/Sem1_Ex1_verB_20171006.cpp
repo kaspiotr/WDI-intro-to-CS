@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 Zad.1, Cw.1, WDI, 6.10.17, wersja B
 

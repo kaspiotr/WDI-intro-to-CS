@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 11. Napisać program wyznaczający najmniejszą wspólną wielokrotność 3 zadanych liczb.
  */

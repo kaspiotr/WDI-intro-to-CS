@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 14. Napisać program wyznaczający pierwiastek kwadratowy ze wzoru Newtona
  */

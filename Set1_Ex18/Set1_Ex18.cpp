@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 18. Nieskończony iloczyn
 sqrt(0.5)*sqrt(0.5+0.5*sqrt(0.5))*sqrt(0.5+0.5*sqrt(0.5+0.5*sqrt(0.5))) * ...

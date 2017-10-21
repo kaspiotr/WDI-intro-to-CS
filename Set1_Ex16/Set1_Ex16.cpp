@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 16. Napisać program rozwiązujący równanie x^x^x=2017 metodą bisekcji.
  */

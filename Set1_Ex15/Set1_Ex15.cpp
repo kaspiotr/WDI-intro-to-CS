@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 15. Zmodyfikować wzór Newtona aby program z poprzedniego zadania obliczał pierwiastek
 stopnia 3.

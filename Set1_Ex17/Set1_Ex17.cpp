@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 17. Napisać program wyznaczający wartość liczby e korzystając z zależności:
 e = 1/0! + 1/1! + 1/2! + 1/3! + ...

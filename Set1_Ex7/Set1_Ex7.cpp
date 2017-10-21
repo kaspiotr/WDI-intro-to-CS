@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 7. Napisać program sprawdzający czy zadana liczba jest pierwsza.
 */

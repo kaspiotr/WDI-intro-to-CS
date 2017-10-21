@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 10. Napisać program wyznaczający największy wspólny dzielnik 3 zadanych liczb.
 */

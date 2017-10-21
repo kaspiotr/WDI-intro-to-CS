@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 4. Napisać program sprawdzający czy istnieje podciąg ciągu Fibonacciego o sumie równej
 numerowi bieżącego roku. (przenieść dalej)

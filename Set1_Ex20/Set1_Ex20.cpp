@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 20. Dane są ciągi: A(n+1)=sqrt(A(n)*B(n)) oraz B(n+1)=(A(n)+B(n))/2.0
 Ciągi te są zbieżne do wspólnej granicy nazywanej średnią arytmetyczno-geometryczną.

@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 Dana jest tablica int tab[1000][1000] wypelniona liczbami naturalnymi
 w taki sposob, ze w kazdym wierszu liczby te sa posortowane rosnaco.

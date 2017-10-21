@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 Cw.1, Zad.3, WDI, 6.10.17
 

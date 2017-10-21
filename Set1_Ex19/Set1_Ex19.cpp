@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 19. Napisać program obliczający wartości cos(x) z rozwinięcia w szereg Maclaurina.
 */

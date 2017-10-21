@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 1. Napisać program generujący elementy ciągu Fibonaciego mniejsze od miliona.
  */

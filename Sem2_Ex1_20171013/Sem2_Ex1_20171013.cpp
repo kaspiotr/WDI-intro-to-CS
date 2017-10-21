@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 Napisac program, ktory sprawdza czy podana liczba jest rowna sumie
 elementow spojnego podciagu wyrazow ciagu Fibonnacciego.

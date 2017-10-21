@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*
 12. Dany jest ciąg określony wzorem: A(n+1) = (A(n)%2)*(3*A(n)+1)+(1-A(n)%2)*A(n)/2
 Startując z dowolnej liczby naturalnej >1 ciąg ten osiąga wartość 1. Napisać program,
