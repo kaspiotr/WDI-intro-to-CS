@@ -8,7 +8,7 @@ Fibonacciego wystąpił w nim wyraz równy numerowi bieżącego roku.
 #include <iostream>
 
 using namespace std;
-const int N = 2017;
+const int N = 2016;
 
 
 int main(){
