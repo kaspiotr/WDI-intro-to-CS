@@ -1,0 +1,7 @@
+Dana jest tablica int tab[1000][1000] wypelniona liczbami naturalnymi
+w taki sposob, ze w kazdym wierszu liczby te sa posortowane rosnaco.
+Napisac funckje int max1000(int tab[1000][1000]), ktora dla tablicy
+tab zwraca sume 1000 najmniejszych liczb znajdujacych sie w tej tablicy.
+
+Czas na wykonanie zadania: 15 min
+
