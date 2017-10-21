@@ -1,0 +1,39 @@
+Zadania z wykładów
+
+Wykład 1:
+	1.Ile informacji zawiera 10 znakowe słowo, którego każdy znak
+		z jednakowym prawdopodobieństwem jest jedną z liter a, b, c ?
+	2.Jak stworzyć kody Huffmana dla zbiorów 5,6,7 elementowych?
+	3.Jak przyspieszyć działanie algorytmu Euklidesa?
+	4.Ile czasu potrzebuje w najgorszym przypadku trzeci algorytm
+		aby rozłożyć na czynniki 50 cyfrową liczbę?
+	5.Jak przyspieszyć działania programu rozkładu na czynniki pierwsze?
+	6.Proszę zaproponować algorytm rozkładający liczbę naturalną N na sumę
+		składników, tak aby ich iloczyn był największy, np. 5 -> 2*3, 7 -> 2*2*3,
+		9 -> 3*3*3.
+ 
+Wykład 2:
+	1.Czym różni się notacja BNF od notacji EBNF?
+	2.Zapisać w notacji EBNF składnię instrukcji warunkowej oraz pętli.
+	3.Zapisać w notacji EBNF składnię wyrażenia arytmetycznego.
+	4.Które z 6 instrukcji: if , if else, switch, while, do while, for można
+		usunąć z języka aby nadal można było w nim programować?
+	5.Liczb pierwszych jest nieskończenie wiele. Tylko 7 z nich spełnia warunek:
+		sum_p(N)=N
+		gdzie:
+			sum_p(N) to suma p-tych potęg cyfr p-cyfrowej liczby N
+		np. 	sum_p(2016)=16+0+1+1296=1313
+				sum_p(2017)=16+0+1+2401=2418
+		Należy napisać program odnajdujący wszystkie takie liczby.
+		A co z naszym programem?
+		
+Wykład 3:
+	1.Dany jest program:
+	begin
+		read(n);
+		while n<>rewers(n) do
+			n := n+rewers(n) { dodawanie arytmetyczne }
+	end.
+	rewers(n) to liczba n zapisana od końca
+	Czy powyższy program zakończy się dla każdej liczby naturalnej?
+	Proszę sprawdzić to dla wszystkich liczb n<200.
