@@ -1,0 +1,8 @@
+ad-wdi kolokwium 3, poniedziałek, 22 lutego 2010 Nazwisko Imię
+Zad. 1 Dana jest duża tablica typu tab=array [1..max, 1..max] of integer wypełniona liczbami
+naturalnymi. Proszę napisać funkcję, która sprawdza czy w tablicy istnieją dwa elementy odległe o
+jeden ruch skoczka szachowego, których wartości są liczbami względnie pierwszymi.
+Uwagi:
+• Zawartość tablicy wejściowej nie może ulec zmianie.
+• Czas na rozwiązanie zadania wynosi 25 minut, za zadanie można otrzymać 5 punktów.
+• Oceniane będą: przejrzystość i czytelność kodu oraz efektywność rozwiązania.
