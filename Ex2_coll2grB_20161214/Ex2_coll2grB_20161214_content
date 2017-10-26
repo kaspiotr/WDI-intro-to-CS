@@ -1,0 +1,10 @@
+Dana jest tablica int t[N][N] (reprezentująca szachownicę) wypełniona liczbami naturalnymi.
+W każdej kolumnie znajduje się dokładnie jedna wieża, której numer wiersza zawiera tablica
+int w[N]. Proszę napisać funkcję która wybiera do usunięcia z szachownicy dwie wieże, tak aby
+suma liczb na polach szachowanych przez pozostałe wieże była najmniejsza. Do funkcji należy
+przekazać tablice t i w, funkcja powinna zwrócić numery kolumn z których usunięto wieże.
+Uwagi:
+- zakładamy, że wieża szachuje cały wiersz i kolumnę z wyłączeniem pola na którym stoi
+- czas na rozwiązanie obu zadań wynosi 45 minut
+- za każde zadanie można otrzymać maksymalnie 5 pkt
+- oceniane będą: czytelność, poprawność i efektywność rozwiązań
