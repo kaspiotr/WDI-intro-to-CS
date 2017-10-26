@@ -15,6 +15,7 @@ Some worm-up problems solved in C++
 
 ## Exercises from colloquiums, pop quizes, exams, etc.
 - [Zad1_kol1_20100128](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll1_20100128  "Ex1_coll1_2010012") **[1D arrays]** Checks if in a given array of elements all of those whose index is a word of Fibonacci's sequence are composite numbers and at least one from the remaining elements is a prime number 
+- [Zad1_kolPop_201002](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_collRep1_201202 "Ex1_collRep1_201202") **[2D arrays]** Zeroize numbers from 2D array that are build from unique set of digits
 - [Zad1_kol2_20100209](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll2_20100209  "Ex1_coll2_20100209") **[1D arrays]** Sum of digits of elements of an array that are written in number system of 7 base, whose indexes in an array are not prime numbers
 - [Zad1_kol3_20100222](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll3_20100222 "Ex1_coll3_20100222") **[2D arrays]** Checks if in a given array are at least two numbers that are coprime and a distance of knight chess piece movement
 - [Zad1_kol1grA_20141104](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll1grA20141104 "Ex1_coll1grA20141104") **[other]** 10th greatest element of a given sequence
