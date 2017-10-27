@@ -15,7 +15,7 @@ Some worm-up problems solved in C++
 ### 3rd seminar
 1. [Zad1]
 
-### 4th semainar
+### 4th seminar
 1. [Zad1]
 2. [Zad2]
 
