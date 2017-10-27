@@ -12,6 +12,12 @@ Some worm-up problems solved in C++
 ### 2nd seminar
 1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem2_Ex1_20171013 "Sem2_Ex1_20171013") **[other]** Program checks if given number is equal to sum of words of the cohesive subsequence of Fibonacci's sequnce 
 
+### 3rd seminar
+1. [Zad1]
+
+### 4th semainar
+1. [Zad1]
+2. [Zad2]
 
 ## Exercises from colloquiums, pop quizes, exams, etc.
 - [Zad1_kol1_20100128](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll1_20100128  "Ex1_coll1_2010012") **[1D arrays]** Checks if in a given array of elements all of those whose index is a word of Fibonacci's sequence are composite numbers and at least one from the remaining elements is a prime number 
