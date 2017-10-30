@@ -16,7 +16,7 @@ Some worm-up problems solved in C++
 1. [Zad1]
 
 ### 4th seminar
-1. [Zad1]
+1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem4_Ex1_20171027 "Sem4_Ex1_20171027") **[1D arrays]** Checks if for a given 1D array of natural numbers and size N you can reach it's field which index is equal to N-1 (starting from field of 0 index) by jumping to next field. The jump length is equal to the value of the prime factor of the field that you're jumping from 
 2. [Zad2]
 
 ## Exercises from colloquiums, pop quizes, exams, etc.
