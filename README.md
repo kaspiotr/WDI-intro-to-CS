@@ -10,7 +10,7 @@ Some worm-up problems solved in C++
 3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem1_Ex3_20171006 "Sem1_Ex3_20171006") **[1D arrays]** Value of most common element in a given 1D array 
 
 ### 2nd seminar
-1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem2_Ex1_20171013 "Sem2_Ex1_20171013") **[other]** Program checks if given number is equal to sum of words of the cohesive subsequence of Fibonacci's sequnce 
+1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem2_Ex1_20171013 "Sem2_Ex1_20171013") **[other]** Program checks if given number is equal to sum of words of the cohesive subsequence of Fibonacci's sequence 
 
 ### 3rd seminar
 1. [Zad1]
