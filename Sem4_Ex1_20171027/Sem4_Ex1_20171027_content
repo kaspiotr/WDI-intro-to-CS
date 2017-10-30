@@ -1,0 +1,4 @@
+Zad.1, Cw.4, WDI, 27.10.17
+Dana jest tablica int t[N] liczb naturalnych. Prosze napisac funkcje, ktora stwierdzi czy da sie dojsc
+z pola tablicy t[] o indeksie 0 do pola tablicy t[] o indeksie n-1, jesli z pola t[i] o indeksie i mozemy skoczyc
+na pole rowne czynnikowi pierwszemu liczby t[i] (gdzie i=0,...,N-1).
