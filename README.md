@@ -64,4 +64,4 @@ Some worm-up problems solved in C++
 ### 2nd
 1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex1 "Set2_Ex1") **[other]** Tells if a given number is equal to the product of two adjacent Fibonacci's sequence words
 2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex2 "Set2_Ex2") **[other]** Tells if a given number is equal to the product of two Fibonacci's sequence words
-3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex3 "Set2_Ex3") **[other]** Tells if a given number is equal to the product of two words of sequence A(n)=n*n+n+1
+3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex3 "Set2_Ex3") **[other]** Tells if a given number is divisor of any word of sequence given by formula A(n)=n*n+n+1
