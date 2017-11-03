@@ -60,3 +60,6 @@ Some worm-up problems solved in C++
 18. [Zad18](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex18 "Set1_Ex18") **[other]** Calculates pi number using equation sqrt(0.5)*sqrt(0.5+0.5*sqrt(0.5))*sqrt(0.5+0.5*sqrt(0.5+0.5*sqrt(0.5)))*...=2/pi
 19. [Zad19](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex19 "Set1_Ex19") **[other]** Calculates value of cos(x) for given number x using Maclaurin's series
 20. [Zad20](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex20 "Set1_Ex20") **[other]** Calculates arithmetic–geometric mean (AGM) of two positive real numbers a and b
+
+### 2nd
+1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex1 "Set2_Ex1") **[other]** Tells if a given number is equal to the product of two adjacent Fibonacci's sequence words
