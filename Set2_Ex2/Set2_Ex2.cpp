@@ -19,7 +19,7 @@ int main(){
     int product = P1*K1;
 
     //przesuwamy K1 maksymalnie do przodu
-    while(n < product && K1<n){
+    while(product < n && K1<n){
         product /= K1;
         K3 = K1+K2;
         K1 = K2;
@@ -32,7 +32,7 @@ int main(){
 
     //cofamy K1 i przesuwamy w przod P1
     while(n != product && P1 < K1){
-        if(n > product){
+        if(n < product){
             product /= K1;
             K3 = K2;
             K2 = K1;
@@ -40,7 +40,7 @@ int main(){
             product *= K1;
         }
 
-        if(n < product) {
+        if(n > product) {
             product /= P1;
             P3 = P1 + P2;
             P1 = P2;
