@@ -27,7 +27,7 @@ Some worm-up problems solved in C++
 - [Zad1_kolKon1_201202](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_collFin1_201202 "Ex1_collFin1_201202") **[2D arrays]** Finds longest riseing subsequence in a row of a given 2D array of natural numbers thats words GCD (greatest common divisor) is equal to 1
 - [Zad1_kol1grA_20141104](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll1grA20141104 "Ex1_coll1grA20141104") **[other]** 10th greatest element of a given sequence
 - [Zad2_kol1grA_20141104](https://github.com/kaspiotr/WDI-intro-to-CS/blob/master/Ex2_coll1grA_20141104.cpp "Ex2_coll1grA_20141104.cpp") **[2D arrays]** Rewriting from 2D array where elements are sorted in rows only to 1D array where there must be sorted in nondecreasing order 
-- [Zad1_kol1grB_20141105](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll1grB_20141105 "Ex1_coll1grB_20141105") **[other]** Program writes out words from a given sequence of natural numbers that are equal to arythmetic mean of 4 of their nearest neighbours
+- [Zad1_kol1grB_20141105](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll1grB_20141105 "Ex1_coll1grB_20141105") **[other]** Writes out words from a given sequence of natural numbers that are equal to arythmetic mean of 4 of their nearest neighbours
 - [Zad2_kol2grB_20141105](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex2_coll1grB_20141105 "Ex2_coll1grB_20141105") **[2D arrays]** Rewriting singletons from 2D arrau to 1D array of the same size. Elements of 1D array must be sorted in increasing order
 - [Zad1_kol1grA_20151103](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll1grA_20151103 "Ex1_coll1grA_20151103git ") **[other]** Program checks if there exist a system number of base between 2 and 16 that given number written in it has all digits that are prime numbers  
 - [Zad2_kol1grA_20151103](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex2_coll1grA_20151103 "Ex2_coll1grA_20151103") **[1D arrays]** Program initialize an array with random odd numbers from range 1 to 99 and returns the difference between two arithmetic sequences found in an array that fulfil certain condition
@@ -67,7 +67,7 @@ Some worm-up problems solved in C++
 3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex3 "Set2_Ex3") **[other]** Tells if a given number is the divisor of any word of sequence given by formula A(n)=n*n+n+1
 4. [Zad4](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex4 "Set2_Ex4") **[other]** Tells if a given number is the divisor of any word of sequence given by formula A(n)=3*A(n-1)+1 and A(1)=2.
 5. [Zad5](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex5 "Set2_Ex5") **[other]** Tells if digits of a given number are organized in increasing order
-6. [Zad6]
+6. [Zad6](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex6 "Set2_Ex6") **[other]** Writes out words from a given sequence of natural numbers that are equal to arythmetic mean of 4 of their nearest neighbours
 7. [Zad7]
 8. [Zad8]
 9. [Zad9]
