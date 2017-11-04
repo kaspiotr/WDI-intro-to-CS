@@ -1,3 +1,5 @@
+//author: @bielakarolina (Karolina Biela)
+
 #include <iostream>
 using namespace std;
 
