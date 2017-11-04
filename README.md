@@ -68,7 +68,7 @@ Some worm-up problems solved in C++
 4. [Zad4](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex4 "Set2_Ex4") **[other]** Tells if a given number is the divisor of any word of sequence given by formula A(n)=3*A(n-1)+1 and A(1)=2.
 5. [Zad5](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex5 "Set2_Ex5") **[other]** Tells if digits of a given number are organized in increasing order
 6. [Zad6](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex6 "Set2_Ex6") **[other]** Writes out words from a given sequence of natural numbers that are equal to arythmetic mean of 4 of their nearest neighbours
-7. [Zad7]
+7. [Zad7](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex7 "Set2_Ex7") **[other]** Checks if one of the digits of a given number is equal to the number of digits of a given number
 8. [Zad8]
 9. [Zad9]
 10. [Zad10]
