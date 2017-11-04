@@ -102,6 +102,8 @@ int main(){
     }
     cout<<endl;
 
+    free(tab);
+
     return 0;
 }
 
