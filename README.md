@@ -71,7 +71,7 @@ Some worm-up problems solved in C++
 7. [Zad7](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex7 "Set2_Ex7") **[other]** Checks if one of the digits of a given number is equal to the number of digits of a given number
 8. [Zad8](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex8 "Set2_Ex8") **[other]** Checks if the last digit of a given number is unique
 9. [Zad9](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex9 "Set2_Ex9") **[other]** Checks if a given number is a palindrome and if the same number written in binary system is a palindrome
-10. [Zad10]
+10. [Zad10](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex10 "Set2_Ex10") **[other]** Calculates number of numbers that divisors are only 2,3 and 5 in range [1,n], where n is given by user
 11. [Zad11]
 12. [Zad12]
 13. [Zad13]
