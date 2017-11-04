@@ -72,7 +72,7 @@ Some worm-up problems solved in C++
 8. [Zad8](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex8 "Set2_Ex8") **[other]** Checks if the last digit of a given number is unique
 9. [Zad9](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex9 "Set2_Ex9") **[other]** Checks if a given number is a palindrome and if the same number written in binary system is a palindrome
 10. [Zad10](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex10 "Set2_Ex10") **[other]** Calculates number of numbers that divisors are only 2,3 and 5 in range [1,N], where N is given by user
-11. [Zad11](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex11 "Set2_Ex11") **[other]** Displays the last non-zero digit of factorial of a given number
+11. [Zad11](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex11 "Set2_Ex11") **[other]** Displays the last non-zero digit of the factorial of a given number
 12. [Zad12]
 13. [Zad13]
 14. [Zad14]
