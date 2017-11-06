@@ -75,7 +75,7 @@ Some worm-up problems solved in C++
 11. [Zad11](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex11 "Set2_Ex11") **[other]** Displays the last non-zero digit of the factorial of a given number
 12. [Zad12](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex12 "Set2_Ex12") **[other]** Calculates the count of numbers that are divisible by 7 and that you can get from a given number by scratching out its digits
 13. [Zad13](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex13 "Set2_Ex13") **[other]** Calculates the count of prime numbers that you can get from two given numbers by using all of their digits (keeping the same digit order as in the given numbers)
-14. [Zad14]
+14. [Zad14](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex14 "Set2_Ex14") **[other]** Given the number N, the program finds the numbers which comply the rules: 1) the number has N digits 2) the sum of N-th powers of its digits is equal to the number
 15. [Zad15]
 16. [Zad16]
 17. [Zad17]
