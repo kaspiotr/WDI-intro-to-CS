@@ -80,5 +80,5 @@ Some worm-up problems solved in C++
 16. [Zad16]() **[other]** Checks if given number is a Carmichael number
 17. [Zad17]
 18. [Zad18]
-19. [Zad19]
+19. [Zad19](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex19) **[other]** Writes out as many words of 1st sequence as many wrods of 2nd sequence is equal to the users input
 20. [Zad20](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex20) **[other]** Finds two divisors of a given number that difference between them is lowest possible
