@@ -79,6 +79,6 @@ Some worm-up problems solved in C++
 15. [Zad15](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex15 "Set2_Ex15") **[other]** Writes out Smith's numbers that are lesser than 1000000
 16. [Zad16]() **[other]** Checks if given number is a Carmichael number
 17. [Zad17]
-18. [Zad18]
-19. [Zad19](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex19) **[other]** Writes out as many words of 1st sequence as many wrods of 2nd sequence is equal to the users input
+18. [Zad18](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex18) **[other]** Solves equation x^x=2017 using bisection method
+19. [Zad19](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex19) **[other]** Writes out as many words of 1st sequence as many words of 2nd sequence is equal to the users input
 20. [Zad20](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex20) **[other]** Finds two divisors of a given number that difference between them is lowest possible
