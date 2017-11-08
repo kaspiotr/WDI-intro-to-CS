@@ -75,8 +75,8 @@ Some worm-up problems solved in C++
 11. [Zad11](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex11 "Set2_Ex11") **[other]** Displays the last non-zero digit of the factorial of a given number
 12. [Zad12](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex12 "Set2_Ex12") **[other]** Calculates the count of numbers that are divisible by 7 and that you can get from a given number by scratching out its digits
 13. [Zad13](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex13 "Set2_Ex13") **[other]** Calculates the count of prime numbers that you can get from two given numbers by using all of their digits (keeping the same digit order as in the given numbers)
-14. [Zad14](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex14 "Set2_Ex14") **[other]** Given the number N, the program finds the numbers which comply the rules: 1) the number has N digits
-    2) the sum of N-th powers of its digits is equal to the number
+14. [Zad14](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex14 "Set2_Ex14") **[other]** Given the number N, the program finds the numbers which comply the rules: 1)the number has N digits
+    2)the sum of N-th powers of its digits is equal to the number
 15. [Zad15](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex15 "Set2_Ex15") **[other]** Writes out Smith's numbers that are lesser than 1000000
 16. [Zad16](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex16 "Set2_Ex16") **[other]** Checks if given number is a Carmichael number
 17. [Zad17](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex17 "Set2_Ex17") **[other]** Searches for Pythagorean triangles
@@ -85,7 +85,7 @@ Some worm-up problems solved in C++
 20. [Zad20](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex20) **[other]** Finds two divisors of a given number that difference between them is lowest possible
 
 ### 3rd
-1. [Zad1]
+1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex1) **[other]** Writes out given number in system numbers of base between 2 and 16
 2. [Zad2]
 3. [Zad3]
 4. [Zad4]
