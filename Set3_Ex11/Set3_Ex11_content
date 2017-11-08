@@ -1,0 +1,3 @@
+11. Napisać funkcję, która dla tablicy int t[MAX] wypełnionej liczbami naturalnym wyznacza
+długość najdłuższego, spójnego podciągu arytmetycznego.
+MAX jest zdefiniowaną stałą.

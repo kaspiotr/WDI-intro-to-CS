@@ -1,0 +1,3 @@
+12. Napisać funkcję, która dla tablicy int t[MAX] wypełnionej liczbami naturalnym wyznacza długość
+najdłuższego, spójnego podciągu geometrycznego.
+MAX jest zdefiniowaną stałą.
