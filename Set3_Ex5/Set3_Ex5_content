@@ -1,0 +1,3 @@
+5. Napisać program wypełniający tablicę int t[MAX] liczbami naturalnymi 1-1000 i sprawdzający czy
+istnieje element tablicy zawierający wyłącznie cyfry nieparzyste.
+MAX jest zdefiniowaną stałą.
