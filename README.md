@@ -80,28 +80,28 @@ Some worm-up problems solved in C++
 15. [Zad15](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex15 "Set2_Ex15") **[other]** Writes out Smith's numbers that are lesser than 1000000
 16. [Zad16](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex16 "Set2_Ex16") **[other]** Checks if given number is a Carmichael number
 17. [Zad17](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex17 "Set2_Ex17") **[other]** Searches for Pythagorean triangles
-18. [Zad18](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex18) **[other]** Solves equation x^x=2017 using bisection method
-19. [Zad19](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex19) **[other]** Writes out as many words of 1st sequence as many words of 2nd sequence is equal to the users input
-20. [Zad20](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex20) **[other]** Finds two divisors of a given number that difference between them is lowest possible
+18. [Zad18](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex18 "Set2_Ex18") **[other]** Solves equation x^x=2017 using bisection method
+19. [Zad19](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex19 "Set2_Ex19") **[other]** Writes out as many words of 1st sequence as many words of 2nd sequence is equal to the users input
+20. [Zad20](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex20 "Set2_Ex20") **[other]** Finds two divisors of a given number that difference between them is lowest possible
 
 ### 3rd
-1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex1) **[other]** Writes out given number in system numbers of base between 2 and 16
-2. [Zad2]
-3. [Zad3]
-4. [Zad4]
-5. [Zad5]
-6. [Zad6]
-7. [Zad7]
-8. [Zad8]
-9. [Zad9]
-10. [Zad10]
-11. [Zad11]
-12. [Zad12]
-13. [Zad13]
-14. [Zad14]
-15. [Zad15]
-16. [Zad16]
-17. [Zad17]
-18. [Zad18]
-19. [Zad19]
-20. [Zad20]
+1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex1 "Set3_Ex1") **[other]** Writes out given number in system numbers of base between 2 and 16
+2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex2 "Set3_Ex2")
+3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex3 "Set3_Ex3")
+4. [Zad4](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex4 "Set3_Ex4")
+5. [Zad5](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex5 "Set3_Ex5")
+6. [Zad6](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex6 "Set3_Ex6")
+7. [Zad7](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex7 "Set3_Ex7")
+8. [Zad8](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex8 "Set3_Ex8")
+9. [Zad9](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex9 "Set3_Ex9")
+10. [Zad10](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex10 "Set3_Ex10")
+11. [Zad11](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex11 "Set3_Ex11")
+12. [Zad12](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex12 "Set3_Ex12")
+13. [Zad13](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex13 "Set3_Ex13")
+14. [Zad14](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex14 "Set3_Ex14")
+15. [Zad15](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex15 "Set3_Ex15")
+16. [Zad16](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex16 "Set3_Ex16")
+17. [Zad17](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex17 "Set3_Ex17")
+18. [Zad18](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex18 "Set3_Ex18")
+19. [Zad19](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex19 "Set3_Ex19")
+20. [Zad20](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex20 "Set3_Ex20")
