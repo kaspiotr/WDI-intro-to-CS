@@ -1,0 +1,4 @@
+9. Dana jest tablica int t[N] zawierająca liczby naturalne.
+W tablicy możemy przeskoczyć z pola o
+indeksie k o n pól w prawo  jeżeli wartość n jest czynnikiem pierwszym liczby t[k]. Napisać
+funkcję sprawdzającą czy jest możliwe przejście z pola 0 na pole N-1.
