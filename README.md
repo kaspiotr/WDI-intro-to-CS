@@ -86,7 +86,7 @@ Some worm-up problems solved in C++
 
 ### 3rd
 1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex1 "Set3_Ex1") **[other]** Writes out given number in system numbers of base between 2 and 16
-2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex2 "Set3_Ex2")
+2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex2 "Set3_Ex2") **[other]** Checks if two given numbers have the same set of digits
 3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex3 "Set3_Ex3")
 4. [Zad4](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex4 "Set3_Ex4")
 5. [Zad5](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex5 "Set3_Ex5")
