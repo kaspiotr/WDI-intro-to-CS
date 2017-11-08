@@ -78,8 +78,30 @@ Some worm-up problems solved in C++
 14. [Zad14](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex14 "Set2_Ex14") **[other]** Given the number N, the program finds the numbers which comply the rules: 1) the number has N digits
     2) the sum of N-th powers of its digits is equal to the number
 15. [Zad15](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex15 "Set2_Ex15") **[other]** Writes out Smith's numbers that are lesser than 1000000
-16. [Zad16]() **[other]** Checks if given number is a Carmichael number
-17. [Zad17]
+16. [Zad16](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex16 "Set2_Ex16") **[other]** Checks if given number is a Carmichael number
+17. [Zad17](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex17 "Set2_Ex17") **[other]** Searches for Pythagorean triangles
 18. [Zad18](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex18) **[other]** Solves equation x^x=2017 using bisection method
 19. [Zad19](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex19) **[other]** Writes out as many words of 1st sequence as many words of 2nd sequence is equal to the users input
 20. [Zad20](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set2_Ex20) **[other]** Finds two divisors of a given number that difference between them is lowest possible
+
+### 3rd
+1. [Zad1]
+2. [Zad2]
+3. [Zad3]
+4. [Zad4]
+5. [Zad5]
+6. [Zad6]
+7. [Zad7]
+8. [Zad8]
+9. [Zad9]
+10. [Zad10]
+11. [Zad11]
+12. [Zad12]
+13. [Zad13]
+14. [Zad14]
+15. [Zad15]
+16. [Zad16]
+17. [Zad17]
+18. [Zad18]
+19. [Zad19]
+20. [Zad20]
