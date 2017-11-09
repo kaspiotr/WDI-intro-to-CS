@@ -19,8 +19,8 @@ bool isAtLeastOneOdd(int a){
 
     while(a != 0){
         digit = a%10;
-        if(digit%2 == 1) isThereOddDig = true;
-        a/=10;
+        if(digit%2 == 1) isThereOddDig = true;   //zamiast tworzyc zmienna mozna zwracac true, wtedy nie musimu przechodzicpo całej liczbie
+        a/=10;                                      //bo wiemy że jedna cyfra juz jest nieparzysta 
     }
 
     return isThereOddDig;
