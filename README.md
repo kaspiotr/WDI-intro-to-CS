@@ -104,4 +104,4 @@ Some worm-up problems solved in C++
 17. [Zad17](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex17 "Set3_Ex17")
 18. [Zad18](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex18 "Set3_Ex18")
 19. [Zad19](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex19 "Set3_Ex19")
-20. [Zad20](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex20 "Set3_Ex20")
+20. [Zad20](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex20 "Set3_Ex20") **[recursive]**
