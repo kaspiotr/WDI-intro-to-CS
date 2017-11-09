@@ -1,3 +1,4 @@
+//author: @bielakarolina (Karolina Biela)
 //. Napisać program obliczający i wypisujący wartość N! dla N z zakresu od 1 do 1000.
 
 
