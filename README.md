@@ -91,7 +91,7 @@ Some worm-up problems solved in C++
 4. [Zad4](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex4 "Set3_Ex4") **[1D arrays]** Checks if every element of an array of integers has an odd digit
 5. [Zad5](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex5 "Set3_Ex5") **[1D arrays]** Checks if there is an element in a given array of integers that has all digits odd
 6. [Zad6](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex6 "Set3_Ex6")
-7. [Zad7](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex7 "Set3_Ex7")
+7. [Zad7](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex7 "Set3_Ex7") **[other]** Calculates e (Euler's number) using equation e = 1/0! + 1/1! + 1/2! + 1/3! + ...
 8. [Zad8](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex8 "Set3_Ex8")
 9. [Zad9](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex9 "Set3_Ex9")
 10. [Zad10](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex10 "Set3_Ex10")
