@@ -24,8 +24,8 @@ int sum(int t1[N],int t2[N],int s,int i){ //s-suma, i-numer aktualnego indeksu
 
     }
     if(i<N){
-        sum(t1,t2,s+t2[i],i+1); //z pierwszej tablicy
-        sum(t1,t2,s+t1[i],i+1); // z drugiej tablicy
+        sum(t1,t2,s+t1[i],i+1); //z pierwszej tablicy
+        sum(t1,t2,s+t2[i],i+1); // z drugiej tablicy
         sum(t1,t2,s+t1[i]+t2[i],i+1); // z obu tablic
 
     }
