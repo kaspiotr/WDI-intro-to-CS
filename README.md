@@ -89,7 +89,7 @@ Some worm-up problems solved in C++
 2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex2 "Set3_Ex2") **[other]** Checks if two given numbers have the same set of digits
 3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex3 "Set3_Ex3") **[1D arrays]** Displays prime numbers lower than a given number using Erastothenes' Sieve
 4. [Zad4](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex4 "Set3_Ex4") **[1D arrays]** Checks if every element of an array of integers has an odd digit
-5. [Zad5](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex5 "Set3_Ex5")
+5. [Zad5](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex5 "Set3_Ex5") **[1D arrays]** Checks if there is an element in a given array of integers that has all digits odd
 6. [Zad6](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex6 "Set3_Ex6")
 7. [Zad7](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex7 "Set3_Ex7")
 8. [Zad8](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex8 "Set3_Ex8")
@@ -102,7 +102,7 @@ Some worm-up problems solved in C++
 15. [Zad15](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex15 "Set3_Ex15")
 16. [Zad16](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex16 "Set3_Ex16")
 17. [Zad17](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex17 "Set3_Ex17")
-18. [Zad18](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex18 "Set3_Ex18")
+18. [Zad18](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex18 "Set3_Ex18")  
 19. [Zad19](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex19 "Set3_Ex19") **[1D arrays]** Write a function to which we pass the numerator and denominator of the fraction. 
     The function should print out the fractional value as a decimal expansion taking into account the period, eg 1/3 = 0. (3), 1/6 = 0.1 (6). 
 20. [Zad20](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex20 "Set3_Ex20") **[recursive]** There are given two N-size arrays of integer numbers each. The sum of elements from arrays is legit if it contains elements from every index from 0 do N-1
