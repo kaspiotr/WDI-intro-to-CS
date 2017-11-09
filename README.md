@@ -88,7 +88,7 @@ Some worm-up problems solved in C++
 1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex1 "Set3_Ex1") **[other]** Writes out given number in system numbers of base between 2 and 16
 2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex2 "Set3_Ex2") **[other]** Checks if two given numbers have the same set of digits
 3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex3 "Set3_Ex3") **[1D arrays]** Displays prime numbers lower than a given number using Erastothenes' Sieve
-4. [Zad4](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex4 "Set3_Ex4")
+4. [Zad4](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex4 "Set3_Ex4") **[1D arrays]** Checks if every element of an array of integers has an odd digit
 5. [Zad5](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex5 "Set3_Ex5")
 6. [Zad6](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex6 "Set3_Ex6")
 7. [Zad7](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex7 "Set3_Ex7")
@@ -103,6 +103,6 @@ Some worm-up problems solved in C++
 16. [Zad16](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex16 "Set3_Ex16")
 17. [Zad17](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex17 "Set3_Ex17")
 18. [Zad18](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex18 "Set3_Ex18")
-19. [Zad19](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex19 "Set3_Ex19")
+19. [Zad19](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex19 "Set3_Ex19") **[1D arrays]** 
 20. [Zad20](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex20 "Set3_Ex20") **[recursive]** There are given two N-size arrays of integer numbers each. The sum of elements from arrays is legit if it contains elements from every index from 0 do N-1
     from at lest one of the arrays or both. The task is to write out legit sums that are prime numbers and count them.
