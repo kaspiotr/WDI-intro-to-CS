@@ -1,3 +1,5 @@
+//author: @kaspiotr (Piotr Kasprzyk)
+
 /*9. Dana jest tablica int t[N] zawierająca liczby naturalne.
 W tablicy możemy przeskoczyć z pola o
 indeksie k o n pól w prawo  jeżeli wartość n jest czynnikiem pierwszym liczby t[k]. Napisać
