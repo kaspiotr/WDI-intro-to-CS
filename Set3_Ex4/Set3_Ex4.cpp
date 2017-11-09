@@ -14,16 +14,15 @@ const int MAX = 10; //na potrzeby testow
 
 //funckja, ktora sprawdza czy co najmniej jedna cyfra podanej liczy jest nieparzysta
 bool isAtLeastOneOdd(int a){
-    bool isThereOddDig = false;
     int digit;
 
     while(a != 0){
         digit = a%10;
-        if(digit%2 == 1) isThereOddDig = true;   //zamiast tworzyc zmienna mozna zwracac true, wtedy nie musimu przechodzicpo całej liczbie
-        a/=10;                                      //bo wiemy że jedna cyfra juz jest nieparzysta 
+        if(digit%2 == 1) return true;
+        a/=10;
     }
 
-    return isThereOddDig;
+    return false;
 }
 
 int main(){
