@@ -76,7 +76,7 @@ int genNumRek(int number, int no1, int no2, int option){
             return 1; //otrzymana liczba byl pierwsza -zliczamy ja
         }
         else{
-            cout<<number<<endl;
+            //cout<<number<<endl;
             return 0; //otrzymana liczba nie byla pierwsza -nie zliczamy jej
         }
 
