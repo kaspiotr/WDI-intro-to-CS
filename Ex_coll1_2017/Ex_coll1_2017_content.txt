@@ -1,9 +1,9 @@
 1. Dwie liczby są różnocyfrowe, gfy żadna cyfra się nie powtarza w obu liczbach. 
 Napisać program, który wczyta dwie liczby naturalne i sprawdzi w którym systemie liczbowym od najmniejszego (2-16)
 te liczby są różnocyfrowe i wypisze w jakim systemie tak jest. Jeśli w żadnym systemie nie będą różnocyfrowe, to program wypisze o tym 
-informację.
+informację.(da się bez tablicy)
 
 2. Dana jest tablica int tab[N], gdzie const int N = 1000. Tablica ta jest wypełniona liczbami naturalnymi. 
 Napisać funkcję, która zwróci nam długość najdłuższego spójnego podciągu rosnącego, dla którego suma liczb 
 naturalnych jest równa sumie indeksów tych liczb w tablicy. Jeśli takiego podciągu nie ma, funkcja ma zwrócić 0.
-Jeśli coś namieszałam, to mnie poprawcie. No i powodzenia jutro na wdi <3
+
