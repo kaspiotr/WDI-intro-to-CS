@@ -1,0 +1,12 @@
+Ad-wdi-k1a, sroda, 15 listopada 2017
+
+1. Dwie liczby naturalne sa rozno-cyfrowe jezeli nie posiadaja zadnej wspolnej cyfry. Prosze napisac program, ktory
+   wczytuje dwie liczby naturalne i poszukuje najmniejszej podstawy systemu (w zakresie 2-16) w ktorym liczby sa
+   rozno-cyfrowe. Program powinien wypisac znaleziona podstawe, jezeli podstawa taka nie istnieje nalezy wypisac
+   komunikat o jej braku. Na przyklad: dla liczb 123 i 522 odpowiedzia jest podstawa 11 bo
+   123(10)=102(11) i 522(10)=435(11).
+
+   Uwagi:
+   Czas na rozwiazanie obu zadan wynosi 40 min
+   Za kazde zadanie mozna otrzymac maksymalnie 5 pkt.
+   Ocenianie beda: czytelnosc, poprawnosc i efektywnosc rozwiazan.

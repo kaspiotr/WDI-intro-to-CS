@@ -1,0 +1,14 @@
+Ad-wdi-k1a, sroda, 15 listopada 2017
+
+2. Dane sa deklaracje:
+   const int N=1000;
+   int tab[N];
+   Tablica tab jest wypelniona liczbami naturalnymi. Prosze napisac funkcje, ktora zwraca dlugosc najdluzszego, spojnego
+   podciagu rosnacego dla ktorego suma jego elementow jest rowna sumie indeksow tych elementow. Do funkcji nalezy
+   przekazac tablice, funckja powinna zwrocic dlugosc znalezionego podciagu lub wartosc 0 jezeli taki podciag nie
+   istnieje.
+
+   Uwagi:
+   Czas na rozwiazanie obu zadan wynosi 40 min
+   Za kazde zadanie mozna otrzymac maksymalnie 5 pkt.
+   Ocenianie beda: czytelnosc, poprawnosc i efektywnosc rozwiazan.
