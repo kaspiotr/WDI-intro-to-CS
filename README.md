@@ -37,6 +37,7 @@ Some worm-up problems solved in C++
 - [Zad3_kolPop_20170203](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex3_collRep_20170203 "Ex3_collRep_20170203") **[linked lists]** Deleting common elements from three given linked lists
 - [Zad1_kol1_20171013](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem2_Ex1_20171013 "Sem2_Ex1_20171013") **[other]** Program checks if given number is equal to sum of words of the cohesive subsequence of Fibonacci's sequnce
 - [Zad1_kol2_20171020](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll2_20171020 "Ex1_coll2_20171020") **[2D arrays]** Calculates sum of 1000 smallest of 2D array of integers where in every row elements are sorted in increasing order
+- [Zad1_kol1grA_20171115](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll1grA_20171115 "Ex1_coll1grA_20171115") **[other]** Displays lowest base of number system (of base between 2 and 16) in which two given numbers have different set of digits. If such a system number does not exist program displays 0. 
 
 ## Sets of tasks
 ### 1st
