@@ -20,9 +20,9 @@ int suma(int t[N]){
     int licz=1;
     int sumind=0,sum=t[0];
     int maxlicz=1, maxsum=0,maxsumind=0;
-    for(int j=1;j<N;j++){
+  //  for(int j=1;j<N;j++){
 
-        for(int i=j;i<N;i++){
+        for(int i=1;i<N;i++){
 
             if(t[i-1]<t[i]){
                // cout<<"ind "<< i<<" "<<t[i]<<endl;
@@ -53,7 +53,7 @@ int suma(int t[N]){
             licz=1;
         }
     }
-    }
+    //}
     cout<<maxsumind<<" : "<<maxsum<<endl;
     return maxlicz;
 
