@@ -20,18 +20,20 @@ int suma(int t[N]){
     int licz=1;
     int sumind=0,sum=t[0];
     int maxlicz=1, maxsum=0,maxsumind=0;
-  //  for(int j=1;j<N;j++){
-
-        for(int i=1;i<N;i++){
+    for(int j=1;j<N;j++){
+            sumind=j-1;
+            sum=t[j-1];
+            licz=1;
+        for(int i=j;i<N;i++){
 
             if(t[i-1]<t[i]){
-               // cout<<"ind "<< i<<" "<<t[i]<<endl;
+                //cout<<"ind "<< i<<" "<<t[i]<<endl;
                 sumind+=i;
                 sum+=t[i];
                 licz++;
-                //cout<<"sumind: "<<sumind<<" sum: "<<sum<<endl;
+            //   cout<<"sumind: "<<sumind<<" sum: "<<sum<<endl;
                 if(sum>sumind){
-                  // cout<<sum<< " "<<sumind<<endl;
+              //     cout<<sum<< " "<<sumind<<endl;
                     sumind=i;
                     sum=t[i];
                     licz=1;
@@ -53,17 +55,17 @@ int suma(int t[N]){
             licz=1;
         }
     }
-    //}
+    }
     cout<<maxsumind<<" : "<<maxsum<<endl;
     return maxlicz;
 
 }
 
 int main(){
-    int t[6]={1,2,3,4,5,6};   //wynik=1
+    int t[6]={1,0,1,3,4,5};   //wynik=3
     int t1[6]={0,1,2,3,4,16}; //wynik=5
     int t2[6]={0,9,0,2,4,8};    //wynik=4
-    int t3[6]={0,9,2,3,4,8};    //wynik =3
+    int t3[6]={0,9,2,3,4,0};    //wynik =3
     cout<<suma(t)<<" :wynik"<<endl;
     cout<<suma(t1)<<" :wynik"<<endl;
     cout<<suma(t2)<<" :wynik"<<endl;
