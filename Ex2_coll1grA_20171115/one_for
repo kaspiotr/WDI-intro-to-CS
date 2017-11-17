@@ -19,6 +19,10 @@ int issub(int *t) {
 			}
 			j++;
 		}
+		if (tmp_len == 0 && t[i] == i) {
+			tmp_len++;
+			if (tmp_len > max_len) max_len = tmp_len;
+		}
 	}
 	
   return max_len;
