@@ -110,3 +110,27 @@ Some worm-up problems solved in C++
     The function should print out the fractional value as a decimal expansion taking into account the period, eg 1/3 = 0. (3), 1/6 = 0.1 (6). 
 20. [Zad20](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set3_Ex20 "Set3_Ex20") **[recursive]** There are given two N-size arrays of integer numbers each. The sum of elements from arrays is legit if it contains elements from every index from 0 do N-1
     from at lest one of the arrays or both. The task is to write out legit sums that are prime numbers and count them.
+    
+### 4th
+1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex1 "Set4_Ex1")
+2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex2 "Set4_Ex2")
+3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex3 "Set4_Ex3")
+4. [Zad4](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex4 "Set4_Ex4")
+5. [Zad5](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex5 "Set4_Ex5")
+6. [Zad6](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex6 "Set4_Ex6")
+7. [Zad7](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex7 "Set4_Ex7")
+8. [Zad8](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex8 "Set4_Ex8")
+9. [Zad9](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex9 "Set4_Ex9")
+10. [Zad10](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex10 "Set4_Ex10")
+11. [Zad11](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex11 "Set4_Ex11")
+12. [Zad12](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex12 "Set4_Ex12")
+13. [Zad13](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex13 "Set4_Ex13")
+14. [Zad14](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex14 "Set4_Ex14")
+15. [Zad15](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex15 "Set4_Ex15")
+16. [Zad16](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex16 "Set4_Ex16")
+17. [Zad17](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex17 "Set4_Ex17")
+18. [Zad18](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex18 "Set4_Ex18")
+19. [Zad19](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex19 "Set4_Ex19")
+20. [Zad20](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex20 "Set4_Ex20")
+21. [Zad21](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex21 "Set4_Ex21")
+22. [Zad22](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex22 "Set4_Ex22")
