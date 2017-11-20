@@ -1,0 +1,9 @@
+12. Dwie liczby naturalne są zgodne jeżeli w zapisie dwójkowym zawierają tę samą liczbę jedynek,  np. 22 = 10110(2)
+i 14 = 1110(2).
+Dane są tablice (MAX2>MAX1):
+int tab1[MAX1][MAX1];
+int tab2[MAX2][MAX2];
+Proszę napisad funkcję, która sprawdza czy istnieje takie położenie tablicy typu tab1 wewnątrz tablicy typu
+tab2, przy którym liczba zgodnych elementów jest większa od 33%. Do funkcji należy przekazać tablicę typu
+tab1 i tablicę typu tab2. Obie oryginalne tablice powinny pozostać nie zmieniane.
+MAX jest zdefiniowaną stałą.

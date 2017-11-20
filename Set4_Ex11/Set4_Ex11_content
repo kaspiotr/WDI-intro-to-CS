@@ -1,0 +1,4 @@
+11. Liczby naturalne a,b są komplementarne jeżeli ich suma jest liczbą pierwszą. Dana jest tablica typu
+int t[MAX][MAX]
+wypełniona liczbami naturalnymi. Proszę napisad funkcję, która zeruje elementy nie posiadające liczby komplementarnej.
+MAX jest zdefiniowaną stałą.

@@ -1,0 +1,7 @@
+6. Dana jest tablica wypełniona liczbami naturalnymi:
+int t[MAX][MAX];
+Proszę napisad funkcję, która w poszukuje w tablicy najdłuższego ciągu geometrycznego
+leżącego ukośnie w kierunku prawo-dół, liczącego co najmniej 3 elementy. Do funkcji
+należy przekazad tablicę. Funkcja powinna zwrócid informacje czy udało się znaleźd
+taki ciąg oraz długość tego ciągu.
+MAX jest zdefiniowaną stałą.

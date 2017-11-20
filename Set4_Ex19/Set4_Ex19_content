@@ -1,0 +1,5 @@
+19. Dana jest tablica wypełniona liczbami naturalnymi
+int t[MAX][MAX];
+Proszę napisać funkcję, która zwraca liczbę par elementów, o określonym iloczynie, takich że elementy są odległe o jeden
+ruch skoczka szachowego.
+MAX jest zdefiniowaną stałą.

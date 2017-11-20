@@ -1,0 +1,6 @@
+18. Dana jest tablica typu
+int t[MAX][MAX]
+wypełniona liczbami całkowitymi. Proszę napisać funkcję, która wyszuka spójny podciąg elementów leżący poziomo
+lub pionowo o największej sumie. Maksymalna długość podciągu może wynosid 10 elementów. Do funkcji należy przekazać
+tablicę typu tab, funkcja powinna zwrócić sumę maksymalnego podciągu.
+MAX jest zdefiniowaną stałą.

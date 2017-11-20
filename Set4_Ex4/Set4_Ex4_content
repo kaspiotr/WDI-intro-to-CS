@@ -1,0 +1,8 @@
+4. Dane są dwie tablice mogące pomieścid taką samą liczbę elementów:
+int t1[MAX][MAX];
+int t2[MAX2];             // MAX2 = MAX*MAX
+W każdym wierszu tablicy t1 znajdują się uporządkowane rosnąco (w obrębie wiersza)
+liczby naturalne. Proszę napisad funkcję przepisującą wszystkie singletony (liczby
+występujące dokładnie raz) z tablicy t1 do t2, tak aby liczby w tablicy t2 były
+uporządkowane rosnąco. Pozostałe elementy tablicy t2 powinny zawierad zera.
+MAX jest zdefiniowaną stałą.

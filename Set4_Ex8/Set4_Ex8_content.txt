@@ -1,0 +1,5 @@
+8. Napisać funkcję która dla tablicy typu
+int t[MAX][MAX],
+wypełnionej liczbami całkowitymi, zwraca wartość true w przypadku, gdy w każdym wierszu i każdej kolumnie występuje co
+najmniej jedno 0 oraz wartośd false w przeciwnym przypadku.
+MAX jest zdefiniowaną stałą.

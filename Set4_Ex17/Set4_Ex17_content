@@ -1,0 +1,3 @@
+17. Dana jest tablica int t[MAX][MAX] wypełniona liczbami naturalnymi. Proszę napisad funkcję która zwraca wiersz
+i kolumnę dowolnego elementu, dla którego suma otaczających go elementów jest największa.
+MAX jest zdefiniowaną stałą.
