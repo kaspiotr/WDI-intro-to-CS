@@ -19,6 +19,10 @@ Some worm-up problems solved in C++
 1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem4_Ex1_20171027 "Sem4_Ex1_20171027") **[1D arrays]** Checks if for a given 1D array of natural numbers and size N you can reach it's field which index is equal to N-1 (starting from field of 0 index) by jumping to next field. The jump length is equal to the value of the prime factor of the field that you're jumping from 
 2. [Zad2]
 
+### 5th seminar
+1. [Zad1]
+2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex1 "Sem5_Ex2_20171110") **[2D arrays]** Initializes a 2D array with natural numbers along spiral (in order: 1st row, last col, last row, 1st col, 2nd row, next-to-last col, next-to-last row, 2nd col, etc.).
+
 ## Exercises from colloquiums, pop quizes, exams, etc.
 - [Zad1_kol1_20100128](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll1_20100128  "Ex1_coll1_2010012") **[1D arrays]** Checks if in a given array of elements all of those whose index is a word of Fibonacci's sequence are composite numbers and at least one from the remaining elements is a prime number 
 - [Zad1_kolPop_201002](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_collRep1_201202 "Ex1_collRep1_201202") **[2D arrays]** Zeroize numbers from 2D array that are build from unique set of digits
