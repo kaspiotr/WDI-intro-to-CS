@@ -117,7 +117,7 @@ Some worm-up problems solved in C++
     
 ### 4th
 1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex1 "Set4_Ex1") **[2D arrays]** Initializes a 2D array with natural numbers along spiral (in order: 1st row, last col, last row, 1st col, 2nd row, next-to-last col, next-to-last row, 2nd col, etc.).
-2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex2 "Set4_Ex2")
+2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex2 "Set4_Ex2") **[2D arrays]** Checks if in every row of a given 2D array is at least one number which has only odd digits
 3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex3 "Set4_Ex3")
 4. [Zad4](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex4 "Set4_Ex4")
 5. [Zad5](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex5 "Set4_Ex5")
