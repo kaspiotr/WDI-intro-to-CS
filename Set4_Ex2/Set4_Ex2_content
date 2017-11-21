@@ -1,4 +1,4 @@
 2. Dana jest tablica int t[MAX][MAX] wypełniona liczbami naturalnymi.
-Proszę napisad funkcję który odpowiada na pytanie, czy w każdym wierszu tablicy
+Proszę napisać funkcję który odpowiada na pytanie, czy w każdym wierszu tablicy
 występuje co najmniej jedna liczba złożona wyłącznie z nieparzystych cyfr.
 MAX jest zdefiniowaną stałą.
