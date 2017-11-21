@@ -112,7 +112,7 @@ Some worm-up problems solved in C++
     from at lest one of the arrays or both. The task is to write out legit sums that are prime numbers and count them.
     
 ### 4th
-1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex1 "Set4_Ex1")
+1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex1 "Set4_Ex1") **[2D arrays]** Initializes a 2D array with natural numbers along spiral (in order: 1st row, last col, last row, 1st col, 2nd row, next-to-last col, next-to-last row, 2nd col, etc.).
 2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex2 "Set4_Ex2")
 3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex3 "Set4_Ex3")
 4. [Zad4](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex4 "Set4_Ex4")
