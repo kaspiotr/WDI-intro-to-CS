@@ -51,7 +51,8 @@ void rewriteSingletons(int t1[MAX][MAX], int t2[MAX2]){
     int currMin, currMinRow;
     int k=0; //indeks mowiacy, ktory element z kolei wpisujemy do tablicy t2[]
 
-    for(int i=0; i<MAX; i++){
+    for(int i=0; i<MAX2; i++){
+
         currMin = t1[0][idxs[0]];
         currMinRow = 0;
 
@@ -62,9 +63,11 @@ void rewriteSingletons(int t1[MAX][MAX], int t2[MAX2]){
             }
         }
 
-        idxs[currMinRow]++;
+        if(idxs[currMinRow] < MAX-1){ //bo pole tablicy idxs moze miec maksymalnie wartosc MAX-1
+            idxs[currMinRow]++;
+        }
 
-        if(prev != currMin){
+        if(prev < currMin){
             t2[k++]=currMin;
             prev = currMin;
         }
@@ -94,7 +97,6 @@ int main(){
     tab[5][0]=99; tab[5][1]=99; tab[5][2]=99; tab[5][3]=99; tab[5][4]=99; tab[5][5]=99;
 
     print2DTab(tab);
-
 
     rewriteSingletons(tab, tab2);
 
