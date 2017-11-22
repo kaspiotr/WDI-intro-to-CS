@@ -44,7 +44,9 @@ int max1000(int tab[1000][1000]){
             }
         }
 
-        idxs[currMinRow]++;
+        if(idxs[currMinRow] < 999){ //bo pole tablicy idxs moze miec maksymalnie wartosc 1000-1=999
+            idxs[currMinRow]++;
+        }
         sum+=currMin;
     }
 
