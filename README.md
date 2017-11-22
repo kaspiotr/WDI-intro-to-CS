@@ -119,8 +119,8 @@ Some worm-up problems solved in C++
 1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex1 "Set4_Ex1") **[2D arrays]** Initializes a 2D array with natural numbers along spiral (in order: 1st row, last col, last row, 1st col, 2nd row, next-to-last col, next-to-last row, 2nd col, etc.).
 2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex2 "Set4_Ex2") **[2D arrays]** Checks if in every row of a given 2D array is at least one number which has only odd digits
 3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex3 "Set4_Ex3") **[2D arrays]** Checks if in a given 2D array of natural numbers is at least one row that contains numbers which have at least one even digit
-4. [Zad4](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex4 "Set4_Ex4") **[2D arrays]** Rewriting singletons from 2D arrau to 1D array of the same size. Elements of 1D array must be sorted in increasing order
-5. [Zad5](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex5 "Set4_Ex5")
+4. [Zad4](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex4 "Set4_Ex4") **[2D arrays]** Rewriting singletons from 2D array to 1D array of the same size. Elements of 1D array must be sorted in increasing order
+5. [Zad5](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex5 "Set4_Ex5") **[2D arrays]** Rewriting elements from 2D array (where in every row elements are sorted in nondecreasing order) to a 1D array of the smae size in non decreasing order
 6. [Zad6](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex6 "Set4_Ex6")
 7. [Zad7](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex7 "Set4_Ex7")
 8. [Zad8](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex8 "Set4_Ex8")
