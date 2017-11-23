@@ -51,7 +51,9 @@ void komplementarne(int t[max][max]) {
 			cout << visited[i][j] << " ";
 		}
 		cout << endl;
-	}
+	} 
+	
+	//wystarczy wezrowac: t[i][j]=0, gdzie if(visited[i][j])
 
 	for (int i = 0; i < max; i++) {
 		delete[] visited[i];
