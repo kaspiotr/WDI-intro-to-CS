@@ -125,7 +125,7 @@ Some worm-up problems solved in C++
 7. [Zad7](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex7 "Set4_Ex7")
 8. [Zad8](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex8 "Set4_Ex8")
 9. [Zad9](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex9 "Set4_Ex9")
-10. [Zad10](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex10 "Set4_Ex10")
+10. [Zad10](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex10 "Set4_Ex10") **[3D arrays]**
 11. [Zad11](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex11 "Set4_Ex11")
 12. [Zad12](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex12 "Set4_Ex12")
 13. [Zad13](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex13 "Set4_Ex13")
