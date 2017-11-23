@@ -1,0 +1,18 @@
+
+bool zero(int tab[max][max]) {
+
+	bool flag_row, flag_col;
+
+	for (int i = 0; i < max; i++) {
+		flag_row = false;
+		flag_col = false; //zakladamy ze nie ma 
+		for (int j = 0; j < max; j++) {	//dwa fory z breakiem lepsze, w jednej petli j nie mozna dac break
+			if (tab[i][j] == 0) { flag_row = true; break; }
+		}
+		for (int j = 0; j < max; j++) {
+			if (tab[j][i] == 0) { flag_col = true; break; }
+		}
+		if (!flag_row || !flag_col) return false;
+	}
+	return true;
+}
