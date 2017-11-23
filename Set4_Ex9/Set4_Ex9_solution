@@ -1,0 +1,90 @@
+#include<iostream>
+
+using namespace std;
+
+const int max = 5;
+
+bool possible_move(int x, int y) {
+
+	if (x >= 0 && x < max && y >= 0 && y < max) return true;
+	return false;
+
+}
+
+bool friends(int x, int k) {
+
+	bool *t1 = new bool[10]; bool flag = true;
+
+	for (int i = 0; i < 10; i++) t1[i] = false;
+
+	while (x > 0) {
+		int last = x % 10;
+		t1[last] = true;
+		x /= 10;
+	}
+
+	while (k > 0) {
+		int last = k % 10;
+		t1[last] = false;
+		k /= 10;
+	}
+
+	for (int i = 0; i < 10; i++) {
+		if (t1[i]) flag = false;
+	}
+
+	delete[] t1; 
+	
+	if (!flag) return false; else return true;
+
+}
+
+void how_many_friends(int tab[max][max]) {
+
+	int counter = 0; bool flag = false; 
+
+	for (int i = 0; i < max ; i++) {
+		for (int j = 0; j < max ; j++) {
+			flag = true;
+			for (int p = -1; p < 2; p++) {
+				for (int k = -1; k < 2; k++) {
+					if (possible_move(i + p, j + k)) {
+						if (!(friends(tab[i][j], tab[i + p][j + k])) && (p != 0 && k != 0)) {
+							flag = false; 
+						}
+					}
+				}
+			}
+			if (flag) counter++;
+		}
+	}
+
+	cout << counter << endl;
+}
+
+int main()
+{
+
+	int tab[max][max];
+	
+	tab[0][0] = 122; tab[0][1] = 122; tab[0][2] = 122; tab[0][3] = 7; tab[0][4] = 7;
+
+	tab[1][0] = 122; tab[1][1] = 21; tab[1][2] = 21; tab[1][3] = 7; tab[1][4] = 7; 
+
+	tab[2][0] = 21; tab[2][1] = 122; tab[2][2] = 122; tab[2][3] = 7; tab[2][4] = 7;
+
+	tab[3][0] = 34; tab[3][1] = 43; tab[3][2] = 7; tab[3][3] = 112; tab[3][4] = 21;
+
+	tab[4][0] = 334; tab[4][1] = 443; tab[4][2] = 7; tab[4][3] = 21; tab[4][4] = 12;
+
+	for (int i = 0; i < max; i++) {
+		for (int j = 0; j < max; j++) {
+			cout << tab[i][j] << " ";
+		}
+		cout << endl;
+	}
+
+	how_many_friends(tab);
+
+    return 0;
+}
