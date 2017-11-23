@@ -1,0 +1,64 @@
+#include<iostream>
+
+using namespace std;
+
+const int max = 10;
+
+//znajduje jeden kwadrat i konczy dzialanie, niesprawdza pozstalych mozliwosci (w zadaniu ze szuka takiego kwadratu, nie kwadratow)
+
+void square(int tab[max][max], int k) {
+
+	int a; //bok kwadratu
+	int x, y; //wspolrzedne srodka
+	bool flag = false;
+
+	for (int i = 0; i < max - 2; i++) {
+		for (int j = 0; j < max - 2; j++) {
+			a = 2;
+			while (i + a < max && j + a < max) {
+				if ((tab[i][j] * tab[i][j + a] * tab[i + a][j] * tab[i + a][j + a]) == k) {
+					flag = true;
+					x = (2 * i + a) / 2;
+					y = (2 * j + a) / 2;
+				}
+				 if (flag) break; a += 2;
+			}
+			if (flag) break;
+		}
+		if (flag) break;
+	}
+	if (flag) {
+		cout << "SUKCES!" << endl;
+		cout << x << " " << y << endl;
+	}
+	else cout << "PORAZKA :(" << endl;
+}
+
+
+
+
+int main()
+{
+	int tab[max][max];
+
+	for (int i = 0; i < max; i++) {
+		for (int j = 0; j < max; j++) {
+			tab[i][j] = 7;
+		}
+	}
+
+	tab[3][3] = 2; tab[7][3] = 2; tab[3][7] = 2; tab[7][7] = 2;
+
+	tab[9][9] = 2; tab[9][7] = 2; tab[7][7] = 2; tab[7][9] = 2;
+
+	for (int i = 0; i < max; i++) {
+		for (int j = 0; j < max; j++) {
+			cout << tab[i][j] << " ";
+		}
+		cout << endl;
+	}
+	
+	square(tab, 16);
+
+    return 0;
+}
