@@ -1,6 +1,6 @@
-10. Dana jest tablica
-int t[MAX][MAX][MAX]. Proszę napisać funkcję, do której przekazujemy tablicę wypełnioną
+10. Dana jest tablica int t[MAX][MAX][MAX]. Proszę napisać funkcję, do której przekazujemy tablicę wypełnioną
 liczbami większymi od zera. Funkcja powinna zwracać wartość True, jeżeli na wszystkich poziomach tablicy
-liczba elementów sąsiadujących (w obrębia poziomu) z co najmniej 6 liczbami złożonymi jest jednakowa albo wartość False
+liczba elementów sąsiadujących (w obrębie poziomu) z co najmniej 6 liczbami złożonymi jest jednakowa albo wartość False
 w przeciwnym przypadku.
 MAX jest zdefiniowaną stałą.
+
