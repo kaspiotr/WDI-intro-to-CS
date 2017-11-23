@@ -1,0 +1,80 @@
+#include<iostream>
+
+using namespace std;
+
+const int max = 5;
+
+bool isPrime(int n) {
+
+	if (n == 2) return true;
+	for (int i = 2; i <= sqrt(n); i++) {
+		if (n%i == 0) return false;
+	}
+	return true;
+
+}
+
+void komplementarne(int t[max][max]) {
+
+	bool **visited = new bool *[max];
+
+	for (int i = 0; i < max; i++) {
+		visited[i] = new bool[max];
+	}
+
+	for (int i = 0; i < max; i++) {
+		for (int j = 0; j < max; j++) {
+			visited[i][j] = false;
+		}
+	}
+
+
+	for (int i = 0; i < max; i++) {
+		for (int j = 0; j < max; j++) {
+
+			for (int p = i; p < max; p++) {
+				for (int k = j; k < max; k++) {
+
+					if (!visited[i][j]  && isPrime(t[i][j] + t[p][k])) {
+
+						visited[i][j] = true;
+						visited[p][k] = true;
+
+					}
+				}
+			}
+		}
+	}
+
+	for (int i = 0; i < max; i++) {
+		for (int j = 0; j < max; j++) {
+			cout << visited[i][j] << " ";
+		}
+		cout << endl;
+	}
+
+	for (int i = 0; i < max; i++) {
+		delete[] visited[i];
+	}
+
+	delete[] visited;
+}
+
+int main()
+{
+	int tab[max][max];
+
+	for (int i = 0; i < max; i++) {
+		for (int j = 0; j < max; j++) {
+			tab[i][j] = 9;
+		}
+	}
+
+	tab[1][2] = 39; tab[2][3] = 40; tab[3][1] = 60; 
+	tab[3][2] = 60; tab[4][0] = 37; tab[4][3] = 37;
+	tab[4][4] = 60;
+
+	komplementarne(tab);
+
+    return 0;
+}
