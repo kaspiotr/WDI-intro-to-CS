@@ -122,7 +122,7 @@ Some worm-up problems solved in C++
 4. [Zad4](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex4 "Set4_Ex4") **[2D arrays]** Rewriting singletons from 2D array to 1D array of the same size. Elements of 1D array must be sorted in increasing order
 5. [Zad5](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex5 "Set4_Ex5") **[2D arrays]** Rewriting elements from 2D array (where in every row elements are sorted in nondecreasing order) to a 1D array of the smae size in non decreasing order
 6. [Zad6](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex6 "Set4_Ex6")
-7. [Zad7](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex7 "Set4_Ex7")
+7. [Zad7](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex7 "Set4_Ex7") **[2D arrays]**
 8. [Zad8](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex8 "Set4_Ex8")
 9. [Zad9](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex9 "Set4_Ex9")
 10. [Zad10](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex10 "Set4_Ex10") **[3D arrays]**
