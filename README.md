@@ -23,6 +23,17 @@ Some worm-up problems solved in C++
 1. [Zad1]
 2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex1 "Sem5_Ex2_20171110") **[2D arrays]** Initializes a 2D array with natural numbers along spiral (in order: 1st row, last col, last row, 1st col, 2nd row, next-to-last col, next-to-last row, 2nd col, etc.).
 
+### 6th seminar
+1. [Zad1]
+2. [Zad2]
+3. [Zad3]
+4. [Zad4]
+
+## 7th seminar
+1. [Zad1] **[recursive]**
+2. [Zad2] **[recursive]**
+3. [zad3] **[recursive]**
+
 ## Exercises from colloquiums, pop quizes, exams, etc.
 - [Zad1_kol1_20100128](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll1_20100128  "Ex1_coll1_2010012") **[1D arrays]** Checks if in a given array of elements all of those whose index is a word of Fibonacci's sequence are composite numbers and at least one from the remaining elements is a prime number 
 - [Zad1_kolPop_201002](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_collRep1_201202 "Ex1_collRep1_201202") **[2D arrays]** Zeroize numbers from 2D array that are build from unique set of digits
@@ -124,7 +135,7 @@ Some worm-up problems solved in C++
 6. [Zad6](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex6 "Set4_Ex6")
 7. [Zad7](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex7 "Set4_Ex7") **[2D arrays]**
 8. [Zad8](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex8 "Set4_Ex8")
-9. [Zad9](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex9 "Set4_Ex9")
+9. [Zad9](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex9 "Set4_Ex9") **[2D arrays]**
 10. [Zad10](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex10 "Set4_Ex10") **[3D arrays]**
 11. [Zad11](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex11 "Set4_Ex11")
 12. [Zad12](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex12 "Set4_Ex12")
