@@ -29,7 +29,7 @@ Some worm-up problems solved in C++
 3. [Zad3]
 4. [Zad4]
 
-## 7th seminar
+### 7th seminar
 1. [Zad1] **[recursive]**
 2. [Zad2] **[recursive]**
 3. [zad3] **[recursive]**
