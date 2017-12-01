@@ -30,7 +30,7 @@ Some worm-up problems solved in C++
 4. [Zad4]
 
 ### 7th seminar
-1. [Zad1] **[recursive]**
+1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem7_Ex1_20171124) **[recursive]** Counts sum of digits of a given number recursively
 2. [Zad2] **[recursive]**
 3. [zad3] **[recursive]**
 
