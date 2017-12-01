@@ -31,7 +31,7 @@ Some worm-up problems solved in C++
 
 ### 7th seminar
 1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem7_Ex1_20171124) **[recursive]** Counts sum of digits of a given number recursively
-2. [Zad2] **[recursive]**
+2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem7_Ex2_20171124) **[recursive]** Writes out elements of the array in order (from 0 to size-1 index).
 3. [zad3] **[recursive]**
 
 ## Exercises from colloquiums, pop quizes, exams, etc.
