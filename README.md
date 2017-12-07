@@ -36,7 +36,9 @@ Some worm-up problems solved in C++
 
 ### 8th seminar
 1. [Zad1]
-2. [Zad2]
+2. 
+    - [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem8_Ex2_20171201 "Sem8_Ex2_20171201") **[recursive]** 
+    - [Zad2_wersjaB](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem8_Ex2_20171201_verB "Sem8_Ex2_20171201_verB") **[recursive]**
 3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem8_Ex3_20171201) **[recursive]** **[2D arrays]** Displays path of a knight that have to visit every field of a chessboard by stepping on it only once
 
 ## Exercises from colloquiums, pop quizes, exams, etc.
