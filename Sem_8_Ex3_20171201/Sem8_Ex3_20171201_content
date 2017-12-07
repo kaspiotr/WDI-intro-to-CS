@@ -1,0 +1,10 @@
+WDI, Cw. 8, 1.12.17
+
+Zad.3 Przyklad algorytmu, ktory wykorzysuje rekurence z powrotami. Dana jest tablica int t[N][N] reprezentujaca
+szachownice, na ktorej wykonujemy ruchy skoczkiem. Nalezy napisac funkcje, ktora wypisze podana tablice
+z wpisanymi w kazde z jej pol numerem skoku, ktore musial wykonac skoczek aby znalezc sie na kazdym polu podanej tablicy
+dokladnie raz.
+
+Uwagi:
+- dla tablicy o rozmiarze N<4 nie istnieje taka droga skoczka szachowego aby pokryc wszystkie pola tablicy,
+- jest to klasyczny przyklad algorytmu z powrotami
