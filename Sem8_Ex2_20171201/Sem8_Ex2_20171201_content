@@ -1,0 +1,10 @@
+WDI, Cw. 8, 1.12.17
+
+Mamy dana liczbe naturalna i chcemy wypisac wszystkie mozliwosci zapisu tej liczby jako sumy skladnikow liczb
+naturalnych. Np. dla liczby 4 program powinien wypisac:
+1+1+1+1
+1+1+2
+2+2
+1+3
+4
+
