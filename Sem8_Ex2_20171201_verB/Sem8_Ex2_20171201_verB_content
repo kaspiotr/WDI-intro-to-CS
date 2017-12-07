@@ -1,0 +1,9 @@
+WDI, Cw. 8, 1.12.17
+
+Mamy dana liczbe naturalna i chcemy wypisac wszystkie mozliwosci zapisu tej liczby jako iloczyny skladnikow liczb
+naturalnych. Np. dla liczby 12 program powinien wypisac:
+2*2*3
+3*4
+2*6
+12
+
