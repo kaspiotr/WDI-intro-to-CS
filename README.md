@@ -34,6 +34,11 @@ Some worm-up problems solved in C++
 2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem7_Ex2_20171124) **[recursive]** Writes out elements of the array in order (from 0 to size-1 index).
 3. [zad3] **[recursive]**
 
+### 8th seminar
+1. [Zad1]
+2. [Zad2]
+3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem8_Ex3_20171201) **[recursive]** **[2D arrays]** Displays path of a knight that have to visit every field of a chessboard by stepping on it only once
+
 ## Exercises from colloquiums, pop quizes, exams, etc.
 - [Zad1_kol1_20100128](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll1_20100128  "Ex1_coll1_2010012") **[1D arrays]** Checks if in a given array of elements all of those whose index is a word of Fibonacci's sequence are composite numbers and at least one from the remaining elements is a prime number 
 - [Zad1_kolPop_201002](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_collRep1_201202 "Ex1_collRep1_201202") **[2D arrays]** Zeroize numbers from 2D array that are build from unique set of digits
