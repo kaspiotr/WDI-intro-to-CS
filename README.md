@@ -41,6 +41,9 @@ Some worm-up problems solved in C++
     - [Zad2_wersjaB](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem8_Ex2_20171201_verB "Sem8_Ex2_20171201_verB") **[recursive]**
 3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem8_Ex3_20171201) **[recursive]** **[2D arrays]** Displays path of a knight that have to visit every field of a chessboard by stepping on it only once
 
+### 9th seminar
+1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem9_Ex1_20171208 "Sem9_Ex1_20171208") **[recursive]**
+
 ## Exercises from colloquiums, pop quizes, exams, etc.
 - [Zad1_kol1_20100128](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll1_20100128  "Ex1_coll1_2010012") **[1D arrays]** Checks if in a given array of elements all of those whose index is a word of Fibonacci's sequence are composite numbers and at least one from the remaining elements is a prime number 
 - [Zad1_kolPop_201002](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_collRep1_201202 "Ex1_collRep1_201202") **[2D arrays]** Zeroize numbers from 2D array that are build from unique set of digits
@@ -53,6 +56,7 @@ Some worm-up problems solved in C++
 - [Zad2_kol2grB_20141105](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex2_coll1grB_20141105 "Ex2_coll1grB_20141105") **[2D arrays]** Rewriting singletons from 2D arrau to 1D array of the same size. Elements of 1D array must be sorted in increasing order
 - [Zad1_kol1grA_20151103](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll1grA_20151103 "Ex1_coll1grA_20151103git ") **[other]** Program checks if there exist a system number of base between 2 and 16 that given number written in it has all digits that are prime numbers  
 - [Zad2_kol1grA_20151103](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex2_coll1grA_20151103 "Ex2_coll1grA_20151103") **[1D arrays]** Program initialize an array with random odd numbers from range 1 to 99 and returns the difference between two arithmetic sequences found in an array that fulfil certain condition
+- [Zad2_kol2_20160205](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex2_coll2_20160205 "Ex2_coll2_20160205") **[recursive]** **[1D array]** 
 - [Zad2_kol2grB_20161213](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex2_coll2grB_20161213 "Ex2_coll2grB_20161213") **[2D arrays]** Returns position of 2 towers that check the greatest sum of field values that you can get from a given 2D array
 - [Zad2_kol2grB_20161214](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex2_coll2grB_20161214 "Ex2_coll2grB_20161214") **[2D arrays]** Returns columns where are located 2 towers that check the greatest sum of field values that you can get from a given 2D array
 - [Zad1_kolPop_20170203](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_collRep_20170203 "Ex1_collRep_20170203") **[2D array]** Finds longest arythmetic sequence which is located in a row or a column of a given 2D array of integers and returns its length
