@@ -1,0 +1,8 @@
+ad-wdi kolokwium 2, piątek, 5 lutego 2016
+
+Zad. 2 Dany jest N elementowy zbior liczba na turalnych w postaci tablicy int t[N]. Prosze napisac
+funckje, ktora zwraca informacje czy jest mozliwy podzial zbioru na trzy zbiory tak aby w kazdym
+z trzech zbiorow laczna liczba jedynek w liczbach zapisanych w systemie binarnym byla jednakowa. Na
+przyklad dla zbioru {2,3,5,7,11,13,16} mozliwy podzial to {2,13,16} {3,11} {5,7} czyli w systemie
+dwojkowym {10,1101,10000} {11,1011} {101,111} -w kazdym zbiorze jest 5 jedynek.
+
