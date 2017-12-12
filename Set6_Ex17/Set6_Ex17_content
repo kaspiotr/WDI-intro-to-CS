@@ -1,0 +1,4 @@
+17. Dany jest ciąg zer i jedynek zapisany w tablicy int t*N+. Proszę napisad funkcję, która
+odpowiada na pytanie czy jest możliwe pocięcie ciągu na kawałki z których każdy
+reprezentuje liczbę pierwszą. Długośd każdego z kawałków nie może przekraczad 30. Na
+przykład dla ciągu 111011 jest to możliwe, a dla ciągu 110100 nie jest możliwe.
