@@ -1,0 +1,16 @@
+
+//zakładam że mam napisane gówno funkcje typu
+//int samogloski //zliczajaca ilosć samoglosek
+//int waga //liczaca wage danego slowa
+#include <stdio.h>
+#include <string.h>
+// tworzymy podciagi z s2 
+void czy_mozna(string s1, string s2, string n1,int d, int n){
+
+    if(d==n && waga(s1)==waga(n1) && samogloski(s1)==samogloski(n1))
+        return true;
+ 
+        
+       czy_mozna(s2, d+1, n, n1+s[d]);//pick //chodzi o literkę dodawaną lub nie 
+       czy_mozna(s2, d+1, n, n1);//not pick
+}
