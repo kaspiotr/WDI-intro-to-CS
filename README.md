@@ -164,35 +164,35 @@ Some worm-up problems solved in C++
 
 ### 6th
 1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex1 "Set6_Ex1") **[recursive]** **[2D arrays]**
-2. [Zad2]
-3. [Zad3]
-4. [Zad4]
-5. [Zad5]
-6. [Zad6]
-7. [Zad7]
-8. [Zad8]
-9. [Zad9]
-10. [Zad10]
-11. [Zad11]
-12. [Zad12]
-13. [Zad13]
-14. [Zad14]
-15. [Zad15]
-16. [Zad16]
+2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex2 "Set6_Ex2")
+3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex3 "Set6_Ex3")
+4. [Zad4](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex4 "Set6_Ex4")
+5. [Zad5](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex5 "Set6_Ex5")
+6. [Zad6](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex6 "Set6_Ex6")
+7. [Zad7](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex7 "Set6_Ex7")
+8. [Zad8](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex8 "Set6_Ex8")
+9. [Zad9](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex9 "Set6_Ex9")
+10. [Zad10](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex10 "Set6_Ex10")
+11. [Zad11](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex11 "Set6_Ex11")
+12. [Zad12](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex12 "Set6_Ex12")
+13. [Zad13](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex13 "Set6_Ex13")
+14. [Zad14](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex14 "Set6_Ex14")
+15. [Zad15](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex15 "Set6_Ex15")
+16. [Zad16](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex16 "Set6_Ex16")
 17. [Zad17](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex17 "Set6_Ex17") **[recursive]** **[1D arrays]**
-18. [Zad18]
+18. [Zad18](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex18 "Set6_Ex18")
 19. [Zad19](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex19 "Set6_Ex19") **[recursive]** **[2D arrays]**
-20. [Zad20]
-21. [Zad21]
-22. [Zad22]
-23. [Zad23]
-24. [Zad24]
-25. [Zad25]
-26. [Zad26]
-27. [Zad27]
-28. [Zad28]
-29. [Zad29]
-30. [Zad30]
-31. [Zad31]
-32. [Zad32]
-33. [zad33]
+20. [Zad20](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex20 "Set6_Ex20")
+21. [Zad21](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex21 "Set6_Ex21")
+22. [Zad22](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex22 "Set6_Ex22")
+23. [Zad23](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex23 "Set6_Ex23")
+24. [Zad24](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex24 "Set6_Ex24")
+25. [Zad25](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex25 "Set6_Ex25")
+26. [Zad26](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex26 "Set6_Ex26")
+27. [Zad27](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex27 "Set6_Ex27")
+28. [Zad28](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex28 "Set6_Ex28")
+29. [Zad29](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex29 "Set6_Ex29")
+30. [Zad30](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex30 "Set6_Ex30")
+31. [Zad31](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex31 "Set6_Ex31")
+32. [Zad32](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex32 "Set6_Ex32")
+33. [zad33](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex33 "Set6_Ex33")
