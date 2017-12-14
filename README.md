@@ -161,3 +161,6 @@ Some worm-up problems solved in C++
 20. [Zad20](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex20 "Set4_Ex20")
 21. [Zad21](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex21 "Set4_Ex21")
 22. [Zad22](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set4_Ex22 "Set4_Ex22")
+
+### 6th
+1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex1 "Set6_Ex1") **[recursive]** **[2D arrays]**
