@@ -1,0 +1,2 @@
+Dana jest tablica int t[N], gdzie N%2==0. Napisac funckje, ktora stwierdzi czy mozliwy jest podzial elementow tej
+tablicy na dwa rownoliczne zbiory o takiej samej sumie elementow.
