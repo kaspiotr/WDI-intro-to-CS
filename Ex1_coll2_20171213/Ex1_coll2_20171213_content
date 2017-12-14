@@ -1,0 +1,5 @@
+2.Dana jest tablica int t[9]. Tablice nalezy wypelnic liczami 1..9. Prosze napisac program, ktory wypisze wszystkie
+ mozliwe "wypelnienia" tablicy. Warunki dodatkowe:
+    -zadne dwie pierwsze liczby nie mogą lezec obok siebie
+    -suma dwoch kolejnych elementow tablicy musi byc co najmniej 2
+    -1 jest juz wpisane do tablicy do t [0]
