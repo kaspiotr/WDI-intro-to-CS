@@ -1,0 +1,3 @@
+31. Mamy daną liczbę całkowitą. W tablicy jednowymiarowej należy  znaleźd n liczb, których suma jest równa danej
+liczbie. Proszę napisać funkcję Nka, która otrzymując jako parametry (1)  tablicę int t[N],) n (ilość liczb stanowiących
+sumę) oraz  sumę sprawdza, ile można w niej znaleźć „enek”.

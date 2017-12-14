@@ -1,0 +1,6 @@
+27. Dane są definicje:
+struct kwadrat { int x1,x2,y1,y2; };
+kwadrat t[N];
+gdzie x1,x2,y1,y2 oznaczają proste ograniczające kwadrat (x1<x2,y1<y2).
+Proszę napisać funkcję, która zwraca wartość logiczną true, jeśli danej tablicy można znaleźć 13 nienachodzących na
+siebie kwadratów, których suma pól jest równa 2012 i false w przeciwnym przypadku.

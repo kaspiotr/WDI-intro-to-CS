@@ -1,0 +1,5 @@
+23. Dane są definicje:
+struct punkt { float x,y; };
+punkt t[N];
+Tablica t zawiera położenia N punktów.
+Napisz funkcję, która zwróci najmniejszą odległość między środkami ciężkości 2 niepustych podzbiorów tego zbioru.
