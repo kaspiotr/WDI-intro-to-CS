@@ -44,6 +44,11 @@ Some worm-up problems solved in C++
 ### 9th seminar
 1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem9_Ex1_20171208 "Sem9_Ex1_20171208") **[recursive]**
 
+### 10th seminar
+1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem10_Ex1_20180105) **[linked lists]** Deletes elements of highest value from a given linked list
+2. [Zad2]
+3. [Zad3]
+
 ## Exercises from colloquiums, pop quizes, exams, etc.
 - [Zad1_kol1_20100128](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll1_20100128  "Ex1_coll1_2010012") **[1D arrays]** Checks if in a given array of elements all of those whose index is a word of Fibonacci's sequence are composite numbers and at least one from the remaining elements is a prime number 
 - [Zad1_kolPop_201002](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_collRep1_201202 "Ex1_collRep1_201202") **[2D arrays]** Zeroize numbers from 2D array that are build from unique set of digits
@@ -67,7 +72,7 @@ Some worm-up problems solved in C++
 - [Zad1_kol1grA_20171115](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll1grA_20171115 "Ex1_coll1grA_20171115") **[other]** Displays lowest base of number system (of base between 2 and 16) in which two given numbers have different set of digits. If such a system number does not exist program displays 0. 
 - [Zad2_kol1grA_20171115](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex2_coll1grA_20171115 "Ex2_coll1grA_20171115") **[1D array]** Returns length of the longest cohesive subsequence in a given array of integers whose sum of elements is equal to sum of indexes of this elements. If such a subsequence does not exist function should return 0.
 - [Zad2_kol2_20171213](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex2_coll2_20171213 "Ex2_coll2_20171213") **[recusive]** **[1D array]**
-
+- [Zad2_kol2_20171214](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex2_coll2_20171214 "Ex2_coll2_20171214") **[recursive]** **[1D array]**
 ## Sets of tasks
 ### 1st
 1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set1_Ex1 "Set1_Ex1") **[other]** Writes out words of Fibonacci's sequence that are less than 1000000
