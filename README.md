@@ -46,7 +46,7 @@ Some worm-up problems solved in C++
 
 ### 10th seminar
 1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem10_Ex1_20180105) **[linked lists]** Deletes elements of highest value from a given linked list
-2. [Zad2]
+2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem10_Ex2_20180105) **[linked lists]** Checks if a given linked list has a cycle
 3. [Zad3]
 
 ## Exercises from colloquiums, pop quizes, exams, etc.
