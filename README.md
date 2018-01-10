@@ -45,9 +45,9 @@ Some worm-up problems solved in C++
 1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem9_Ex1_20171208 "Sem9_Ex1_20171208") **[recursive]**
 
 ### 10th seminar
-1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem10_Ex1_20180105) **[linked lists]** Deletes elements of highest value from a given linked list
-2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem10_Ex2_20180105) **[linked lists]** Checks if a given linked list has a cycle
-3. [Zad3]
+1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem10_Ex1_20180105 "Sem10_Ex1_20180105") **[linked lists]** Deletes elements of highest value from a given linked list
+2. [Zad2](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem10_Ex2_20180105 "Sem10_Ex2_20180105") **[linked lists]** Checks if a given linked list has a cycle
+3. [Zad3](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Sem10_Ex3_20180105 "Sem10_Ex3_20180105") **[linked lists]** Counts the length of a cycle in a given linked list
 
 ## Exercises from colloquiums, pop quizes, exams, etc.
 - [Zad1_kol1_20100128](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll1_20100128  "Ex1_coll1_2010012") **[1D arrays]** Checks if in a given array of elements all of those whose index is a word of Fibonacci's sequence are composite numbers and at least one from the remaining elements is a prime number 
