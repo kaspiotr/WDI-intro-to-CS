@@ -62,6 +62,7 @@ Some worm-up problems solved in C++
 - [Zad1_kol1grA_20151103](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_coll1grA_20151103 "Ex1_coll1grA_20151103git ") **[other]** Program checks if there exist a system number of base between 2 and 16 that given number written in it has all digits that are prime numbers  
 - [Zad2_kol1grA_20151103](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex2_coll1grA_20151103 "Ex2_coll1grA_20151103") **[1D arrays]** Program initialize an array with random odd numbers from range 1 to 99 and returns the difference between two arithmetic sequences found in an array that fulfil certain condition
 - [Zad2_kol2_20160205](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex2_coll2_20160205 "Ex2_coll2_20160205") **[recursive]** **[1D array]** 
+- [Zad3_kol2_20160205](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex3_coll2_20160205 "Ex3_coll2_20160205") **[linked list]** Divides a given linked list of Points into 4 separate linked list taking into account the quarter of coordinate system in which is a particular Point located
 - [Zad2_kol2grB_20161213](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex2_coll2grB_20161213 "Ex2_coll2grB_20161213") **[2D arrays]** Returns position of 2 towers that check the greatest sum of field values that you can get from a given 2D array
 - [Zad2_kol2grB_20161214](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex2_coll2grB_20161214 "Ex2_coll2grB_20161214") **[2D arrays]** Returns columns where are located 2 towers that check the greatest sum of field values that you can get from a given 2D array
 - [Zad1_kolPop_20170203](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Ex1_collRep_20170203 "Ex1_collRep_20170203") **[2D array]** Finds longest arythmetic sequence which is located in a row or a column of a given 2D array of integers and returns its length
@@ -202,3 +203,38 @@ Some worm-up problems solved in C++
 31. [Zad31](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex31 "Set6_Ex31")
 32. [Zad32](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex32 "Set6_Ex32")
 33. [zad33](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set6_Ex33 "Set6_Ex33")
+
+### 8th
+1. [Zad1](https://github.com/kaspiotr/WDI-intro-to-CS/tree/master/Set8_Ex1 "Set8_Ex1") **[linked lists]** Adds new element to the end of a given linked list
+2. [Zad2]
+3. [Zad3]
+4. [Zad4]
+5. [Zad5]
+6. [Zad6]
+7. [Zad7]
+8. [Zad8]
+9. [Zad9]
+10. [Zad10]
+11. [Zad11]
+12. [Zad12]
+13. [Zad13]
+14. [Zad14]
+15. [Zad15]
+16. [Zad16]
+17. [Zad17]
+18. [Zad18]
+19. [Zad19]
+20. [Zad20]
+21. [Zad21]
+22. [Zad22]
+23. [Zad23]
+24. [Zad24]
+25. [Zad25]
+26. [Zad26]
+27. [Zad27]
+28. [Zad28]
+29. [Zad29]
+30. [Zad30]
+31. [Zad31]
+32. [Zad32]
+33. [Zad33]
