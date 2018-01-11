@@ -1,0 +1,10 @@
+ad-wdi kookwium 2, piątek, 5 lutego 2016
+
+Zad3. Dany jest zbior punktow plaszczyzny o wspolrzednych bedacych liczbami calkowitymi. Zbior ten dany jest
+w postaci listy jednokierunkowej. Prosze napisac funckje, ktora rozdziela lancuch na cztery lancuchy zawierajace punkty
+nalezace odpowiednio do I, II, II i IV cwiartki ukladu wpsolrzednych, natomiast punkty lezace na osiach ukladu
+wspolrzednych usuwa z pamieci. Prosze zadeklarowac odpowiednie typy.
+
+Uwagi:
+- czas na rozwiazanie zadania wynosi 25 min, za zadanie mozna otrzymac 5 punktow
+- oceniane beda: przejrzystosc i czytelnosc kodu oraz efektywnosc rozwiazania
