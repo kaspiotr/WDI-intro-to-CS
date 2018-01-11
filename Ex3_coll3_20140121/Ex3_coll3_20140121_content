@@ -1,0 +1,4 @@
+Zad.3
+Napisz funkcję, która przyjmuje wskaźnik do początku jednokierunkowego
+łańcucha odsyłaczowego, a następnie przenosi na początek wszystkie elemen-
+ty, w których zapisie ósemkowym występuje nieparzysta liczba piątek.
