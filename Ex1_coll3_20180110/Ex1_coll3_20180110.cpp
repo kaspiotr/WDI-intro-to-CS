@@ -134,6 +134,8 @@ void customSort(Node* &first) {
     if(begin!=NULL) {
         lastBegin->next = end;
         first = begin;
+    } else {
+        first = end;
     }
 }
 
