@@ -1,6 +1,10 @@
 # **WDI-intro-to-CS**
 Some worm-up problems solved in C++ 
 
+If you find this repository useful and want me to develop it further leave a star
+
+Jeśli to repozytorium jest przydatne i chcesz abym rozwijał je dalej, to zostaw gwiazdkę
+
 ## Exercises from seminars
 ### 1st seminar 
 1.
